@@ -2,6 +2,10 @@
 
 <br>
 
+## Some References
+
+<br>
+
 ### Solidity basics
 
 * [Solidity docs (a must for any engineer)](https://docs.soliditylang.org/en/v0.8.12/)
