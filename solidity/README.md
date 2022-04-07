@@ -1,4 +1,4 @@
-## Solidity Concepts
+## Basic Concepts
 
 <br>
 
