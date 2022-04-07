@@ -1,6 +1,6 @@
 ## ☠️ Security
 
-----
+
 
 ### Basic security notes
 
