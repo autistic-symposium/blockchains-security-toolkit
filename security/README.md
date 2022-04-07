@@ -1,4 +1,8 @@
-## Basic security
+## ☠️ Security
+
+----
+
+### Basic security notes
 
 
 * `tx.origin` is used: you want to replace it by “msg.sender” because otherwise any contract you call can act on your behalf.
