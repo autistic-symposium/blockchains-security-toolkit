@@ -1,8 +1,5 @@
 # 🧱⛓☠️ [Scratch Space] Smart Contracts and Security
 
-<br>
-
-## Some References
 
 <br>
 
