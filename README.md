@@ -1,4 +1,4 @@
-# 🧱⛓☠️ [Scratch Space] Smart Contracts and Security
+# 🧱⛓☠️ Smart Contracts and Security
 
 
 <br>
