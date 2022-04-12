@@ -27,3 +27,4 @@
 ### Useful tools
 
 * [EthTx Transaction Decoder](https://ethtx.info/)
+* [Eth converter](https://eth-converter.com/)
