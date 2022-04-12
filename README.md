@@ -22,3 +22,4 @@
 * [EthTx Transaction Decoder](https://ethtx.info/)
 * [Eth converter](https://eth-converter.com/)
 * [JSON formatter](https://jsonformatter.curiousconcept.com/)
+* [Craft requests from curl commands](https://reqbin.com/)
