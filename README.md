@@ -21,3 +21,4 @@
 
 * [EthTx Transaction Decoder](https://ethtx.info/)
 * [Eth converter](https://eth-converter.com/)
+* [JSON formatter](https://jsonformatter.curiousconcept.com/)
