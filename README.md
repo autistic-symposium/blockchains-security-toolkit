@@ -1,5 +1,11 @@
 # 🧱⛓☠️ Blockchain Development and Security
 
+<br>
+
+### Solidity learning resources
+
+* [Solidity by example](https://solidity-by-example.org/)
+
 
 <br>
 
