@@ -48,6 +48,7 @@
 * [Smart contract security fundamentals by OpenZeppelin](https://www.youtube.com/playlist?list=PLBy3Qkuapv_7R1ZI_Cs2NOFn7ZTaNWY6G)
 * [Paradigm CTF solutions](https://cmichel.io/paradigm-ctf-2021-solutions/)
 * [White Hat panel: DeFi exploits](https://www.youtube.com/watch?v=Df2zzfoTfMc)
+* [Smart contract audit checklist](https://consensys.net/diligence/blog/2019/09/how-to-prepare-for-a-smart-contract-audit/)
 
 
 <br>
