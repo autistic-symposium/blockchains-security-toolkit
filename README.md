@@ -92,4 +92,5 @@
 * [JSON formatter](https://jsonformatter.curiousconcept.com/)
 * [Craft requests from curl commands](https://reqbin.com/)
 * [Smart contract fuzzer](https://github.com/crytic/echidna)
-* [Smart contract code analyzer](https://github.com/crytic/slither )
+* [Smart contract code analyzer](https://github.com/crytic/slither)
+* [Another smart contract code analyzer](https://github.com/ConsenSys/mythril)
