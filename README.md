@@ -94,3 +94,4 @@
 * [Smart contract fuzzer](https://github.com/crytic/echidna)
 * [Smart contract code analyzer](https://github.com/crytic/slither)
 * [Another smart contract code analyzer](https://github.com/ConsenSys/mythril)
+* [Verx, smart contract verifier](http://verx.ch/)
