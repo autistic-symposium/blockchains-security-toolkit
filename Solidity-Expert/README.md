@@ -17,7 +17,7 @@
 
 ### References
 
-* [Solidity docs (a must for any engineer)](https://docs.soliditylang.org/en/v0.8.12/)
+* [Solidity docs](https://docs.soliditylang.org/en/v0.8.12/)
 * [OpenZeppelin docs](https://docs.openzeppelin.com/)
 * [Solidity style guide](https://docs.soliditylang.org/en/latest/style-guide.html)
 * [Ethereum smart contract best practices](https://consensys.github.io/smart-contract-best-practices/)
