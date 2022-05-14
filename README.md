@@ -24,11 +24,15 @@
 
 ----
 
-## Blockchain hacking resources
+## Blockchain hacking and security resources
 
 <br>
 
 
+* [Uniswap Oracle Attack Simulator by Euler](https://blog.euler.finance/uniswap-oracle-attack-simulator-42d18adf65af)
+* [Hacking the Blockchain by Immunifi](https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b)
+* [Thinking About Smart Contract Security by Vitalik](https://blog.ethereum.org/2016/06/19/thinking-smart-contract-security/)
+* [Spoof tokens on Ethereum](https://medium.com/etherscan-blog/spoof-tokens-on-ethereum-c2ad882d9cf6)
 * [Hacking the Blockchain: Ethereum](https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b)
 * [Solidity security mind map](https://github.com/x676f64/secureum-mind_map)
 * [Pitfalls and best practices](https://github.com/x676f64/secureum-mind_map/blob/master/4.%20Pitfalls%20and%20Best%20Practices%20101.md)
