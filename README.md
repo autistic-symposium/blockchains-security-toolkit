@@ -58,6 +58,7 @@
 * [White Hat panel: DeFi exploits](https://www.youtube.com/watch?v=Df2zzfoTfMc)
 * [Smart contract audit checklist](https://consensys.net/diligence/blog/2019/09/how-to-prepare-for-a-smart-contract-audit/)
 * [Another audit checklist](https://github.com/nascentxyz/simple-security-toolkit)
+* [Ethereum signature database](https://www.4byte.directory/)
 
 
 <br>
