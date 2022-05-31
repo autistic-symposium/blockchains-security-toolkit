@@ -105,3 +105,4 @@
 * [Another smart contract code analyzer](https://github.com/ConsenSys/mythril)
 * [Verx, smart contract verifier](http://verx.ch/)
 * [Solhint, a linter for Solidity](https://github.com/protofire/solhint)
+* [Solidity coverage tool](https://github.com/sc-forks/solidity-coverage)
