@@ -107,3 +107,4 @@
 * [Verx, smart contract verifier](http://verx.ch/)
 * [Solhint, a linter for Solidity](https://github.com/protofire/solhint)
 * [Solidity coverage tool](https://github.com/sc-forks/solidity-coverage)
+* [Solidity support for Visual Studio code](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity)
