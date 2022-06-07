@@ -8,16 +8,15 @@
 
 * [Solidity docs](https://docs.soliditylang.org/en/v0.8.12/)
 * [OpenZeppelin docs](https://docs.openzeppelin.com/)
+* [Solidity by example](https://solidity-by-example.org/)
 * [Solidity style guide](https://docs.soliditylang.org/en/latest/style-guide.html)
 * [Ethereum smart contract best practices](https://consensys.github.io/smart-contract-best-practices/)
-* [Solidity by example](https://solidity-by-example.org/)
-* [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](https://www.youtube.com/watch?v=M576WGiDBdQ)
 * [Ethereum book ](https://github.com/ethereumbook/ethereumbook)
 * [Everything Solidity](https://github.com/x676f64/secureum-mind_map/blob/master/2.%20Solidity%20101.md)
 * [Solidity by Securitum bookcamp](https://www.youtube.com/watch?v=5eLqFac5Tkg)
 * [Solidity 201 primitives](https://github.com/x676f64/secureum-mind_map/blob/master/3.%20Solidity%20201.md)
 * [Smart contract programmer videos](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA/videos)
-
+* [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](https://www.youtube.com/watch?v=M576WGiDBdQ)
 
 
 <br>
