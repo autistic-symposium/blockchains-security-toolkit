@@ -18,6 +18,7 @@
 
 ### Ethereums's `DELEGATECALL` vs. `CALL`
 
+*  If we use delegatecall() to call the native contract, the msg.value will be inherited from the original calling context, but the ETH is no longer passed to the native contract.
 
 <img width="914" alt="Screen Shot 2022-06-08 at 8 29 36 PM" src="https://user-images.githubusercontent.com/1130416/172758401-b10c11fe-8fb4-42bf-b3be-3ffc4682ef9a.png">
 <img width="929" alt="Screen Shot 2022-06-08 at 8 29 55 PM" src="https://user-images.githubusercontent.com/1130416/172758414-6a6d531d-dc6c-4507-b0cf-6cd63e4d0858.png">
