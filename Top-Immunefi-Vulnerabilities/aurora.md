@@ -1,4 +1,4 @@
-## Aurora inflation spend vuln
+## Aurora inflation spend vulnerability
 
 <br>
 
