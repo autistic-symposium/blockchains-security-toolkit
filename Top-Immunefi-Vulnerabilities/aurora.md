@@ -16,7 +16,7 @@
 
 <br>
 
-### `DELEGATECALL` vs. `CALL`
+### Ethereums's `DELEGATECALL` vs. `CALL`
 
 
 <img width="914" alt="Screen Shot 2022-06-08 at 8 29 36 PM" src="https://user-images.githubusercontent.com/1130416/172758401-b10c11fe-8fb4-42bf-b3be-3ffc4682ef9a.png">
