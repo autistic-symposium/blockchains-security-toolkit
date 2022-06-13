@@ -33,7 +33,7 @@ where `allowance(sender, recipient)` should be `allowance(sender, msg.sender)`.
 #### Here is a clarification
 
 
-|     entity        |    address name     |   description  |
+|     entity        |    address          |   description  |
 | ----------------- | ------------------- | -------------- |
 | sender            | `sender`            | *from*; who holds the tokens before the transaction |
 | recipient         | `recipient`         | *to*, who will receive the tokens after the transaction |
