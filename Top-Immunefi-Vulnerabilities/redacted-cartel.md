@@ -40,5 +40,39 @@ where `allowance(sender, recipient)` should be `allowance(sender, msg.sender)`.
 | spender           | `msg.sender`        | who is calling `transferFrom()`; the operator; who needs allowance approval |
 
 
+<br>
 
+[Here](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol) is how OpenZeppelin implements this function for `ERC-20`:
+
+```
+    function transferFrom(
+        address from,
+        address to,
+        uint256 amount
+    ) public virtual override returns (bool) {
+        address spender = _msgSender();
+        _spendAllowance(from, spender, amount);
+        _transfer(from, to, amount);
+        return true;
+    }
+```
+
+where
+
+
+```
+    function _spendAllowance(
+        address owner,
+        address spender,
+        uint256 amount
+    ) internal virtual {
+        uint256 currentAllowance = allowance(owner, spender);
+        if (currentAllowance != type(uint256).max) {
+            require(currentAllowance >= amount, "ERC20: insufficient allowance");
+            unchecked {
+                _approve(owner, spender, currentAllowance - amount);
+            }
+        }
+    }
+```
 
