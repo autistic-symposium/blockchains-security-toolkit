@@ -8,3 +8,4 @@
 * [Optimism Infinite Money Duplication](optimism.md)
 * [Nexus Mutual Bug](nexus.md)
 * [Polygon Consensus Bypass](polygon.md)
+* [APWine Incorrect Check of Delegations](apwine.md)
