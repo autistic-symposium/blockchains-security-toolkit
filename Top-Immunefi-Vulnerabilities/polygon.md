@@ -55,12 +55,12 @@ updateTimeline(-(int256(amount) + delegationAmount), -1, targetEpoch);
 1. Create a new validator using the stakeFor function.
 2. Call the buyVoucher function with a big delegated amount to buy the shares of the validators by staking tokens.
 3. The attacker can now repeat the following steps until validatorState.amount (total staking power) is low enough to bypass the consensus majority check (⅔) requirement.
-   a. Catch an available validator slot via an on-chain auction process which happens at regular intervals.
-   b. Migrate staking tokens into that validator by calling a migrateDelegation function.
-   c. Unstake the validator. (validatorState.amount is decreased again)
-   d. Wait for a checkpoint (for this validator slot to open)
+    a. Catch an available validator slot via an on-chain auction process which happens at regular intervals.
+    b. Migrate staking tokens into that validator by calling a migrateDelegation function.
+    c. Unstake the validator. (validatorState.amount is decreased again)
+    d. Wait for a checkpoint (for this validator slot to open)
 
-* These steps will repeatedly decrease the total staking power by the same amount of delegated amount for each iteration. An attacker can repeat this until the total staking power is low enough to start accepting new checkpoints. He can bypass the required ⅔ consensus majority check. An attacker can lower the total staking power up to a low point that a sole validator can pass the majority check.
+These steps will repeatedly decrease the total staking power by the same amount of delegated amount for each iteration. An attacker can repeat this until the total staking power is low enough to start accepting new checkpoints. He can bypass the required ⅔ consensus majority check. An attacker can lower the total staking power up to a low point that a sole validator can pass the majority check.
 
 
 
