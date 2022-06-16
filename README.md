@@ -110,3 +110,4 @@
 * [Solidity support for Visual Studio code](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity)
 * [Immunefi scrapper](https://github.com/pratraut/scrapyFi)
 * [Cryptocurrency Historical Data Snapshot](https://coinmarketcap.com/historical/)
+* [Contracts diff checker](https://etherscan.io/contractdiffchecker)
