@@ -10,3 +10,4 @@
 * [Polygon Consensus Bypass](polygon.md)
 * [APWine Incorrect Check of Delegations](apwine.md)
 * [Notional Double Counting Free Collateral](notional.md)
+* [Cronos Theft of Transactions Fees](cronos.md)
