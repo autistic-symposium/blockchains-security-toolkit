@@ -12,3 +12,4 @@
 * [APWine Incorrect Check of Delegations](apwine.md)
 * [Notional Double Counting Free Collateral](notional.md)
 * [Cronos Theft of Transactions Fees](cronos.md)
+* [Enzyme Finance Price Oracle Manipulation](enzyme.md)
