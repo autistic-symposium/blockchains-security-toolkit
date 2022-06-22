@@ -2,7 +2,7 @@
 
 <br>
 
-In this repository:
+In this directory:
 
 <br>
 
