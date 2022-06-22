@@ -145,6 +145,7 @@
 * [Mutation Testing for Ethereum Smart Contracts](https://github.com/JoranHonig/vertigo)
 * [Ethereum Developer Tools List](https://github.com/ConsenSys/ethereum-developer-tools-list)
 * [A Solidity Inspector](https://github.com/ConsenSys/surya)
+* [Tools by Notonly.owner](https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum)
 
 
 
