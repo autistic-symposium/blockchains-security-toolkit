@@ -66,6 +66,9 @@
 * [Another audit checklist](https://github.com/nascentxyz/simple-security-toolkit)
 * [Ethereum signature database](https://www.4byte.directory/)
 * [OpSec SelfGuard RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
+* [The Solcurity Standard](https://github.com/Rari-Capital/solcurity)
+* [Smart Contract Security Verification Standard](https://github.com/securing/SCSVS)
+* [SecurETH Guidelines](https://guidelines.secureth.org/)
 
 <br>
 
@@ -86,6 +89,8 @@
 * [Security contracts from OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/security)
 
 
+<br>
+
 ---
 
 ## Practice your hacking skils
@@ -93,9 +98,12 @@
 <br>
 
 * [Capture the Ether](https://capturetheether.com/)
-* [Paradigm CTF](https://github.com/paradigm-operations/paradigm-ctf-2021)
-* [Paradigm CTF solutions](https://cmichel.io/paradigm-ctf-2021-solutions/)
+* [Paradigm CTF](https://github.com/paradigm-operations/paradigm-ctf-2021) and [Paradigm CTF solutions](https://cmichel.io/paradigm-ctf-2021-solutions/)
 * [Damn vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
+* [A collection of EVM puzzles](https://github.com/fvictorio/evm-puzzles)
+* [Gamefication vault](https://hats.finance/gamification)
+* [Cipher Shastra](https://ciphershastra.com/)
+* [Etherhack](https://etherhack.positive.com/#/)
 
 
 
@@ -134,6 +142,7 @@
 * [Security analysis tool for EVM bytecode](https://github.com/ConsenSys/mythril)
 * [Mutation Testing for Ethereum Smart Contracts](https://github.com/JoranHonig/vertigo)
 * [Ethereum Developer Tools List](https://github.com/ConsenSys/ethereum-developer-tools-list)
+* [A Solidity Inspector](https://github.com/ConsenSys/surya)
 
 
 
