@@ -2,12 +2,26 @@
 
 <br>
 
-## Solidity learning resources
+
+## EVM basics
+
+<br>
+
+* [EVM opcodes](https://github.com/crytic/evm-opcodes)
+* [Ethereum book](https://github.com/ethereumbook/ethereumbook)
+* [Ethereum's Whitepaper](https://ethereum.org/en/whitepaper/)
+* [Understanding rollups](https://barnabe.substack.com/p/understanding-rollup-economics-from?s=r)
+* [Speeding up the EVM by Flashbots](https://writings.flashbots.net/research/speeding-up-evm-part-1/)
+
+<br>
+
+---
+
+## Solidity basics
 
 <br>
 
 * [Solidity docs](https://docs.soliditylang.org/en/v0.8.12/)
-* [Ethereum book](https://github.com/ethereumbook/ethereumbook)
 * [OpenZeppelin docs](https://docs.openzeppelin.com/)
 * [Solidity by example](https://solidity-by-example.org/)
 * [Solidity style guide](https://docs.soliditylang.org/en/latest/style-guide.html)
@@ -22,7 +36,7 @@
 
 ----
 
-## Blockchain hacking and security resources
+## Blockchain security basics
 
 <br>
 
@@ -51,13 +65,30 @@
 * [Smart contract audit checklist](https://consensys.net/diligence/blog/2019/09/how-to-prepare-for-a-smart-contract-audit/)
 * [Another audit checklist](https://github.com/nascentxyz/simple-security-toolkit)
 * [Ethereum signature database](https://www.4byte.directory/)
-
+* [OpSec SelfGuard RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
 
 <br>
 
+
+
 ---
 
-## Learn and practice your skils
+## Contracts of interest
+
+<br>
+
+* [Uniswap v3](https://github.com/Uniswap/v3-core/tree/main/contracts)
+* [Chainlink](https://github.com/smartcontractkit/chainlink/tree/develop/contracts/src/v0.4)
+* [Fei protocol](https://github.com/fei-protocol/fei-protocol-core/tree/master/contracts)
+* [OpenZeppelin's ERC-20](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol)
+* [OpenZeppelin's ERC-721](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/ERC721.sol)
+* [Immunefi notes on the ERC token standard](https://medium.com/immunefi/how-erc-standards-work-part-1-c9795803f459)
+* [Security contracts from OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/security)
+
+
+---
+
+## Practice your hacking skils
 
 <br>
 
@@ -72,39 +103,7 @@
 
 ---
 
-## Basics on the EVM
-
-<br>
-
-* [EVM opcodes](https://github.com/crytic/evm-opcodes)
-* [Ethereum's Whitepaper](https://ethereum.org/en/whitepaper/)
-* [Understanding rollups](https://barnabe.substack.com/p/understanding-rollup-economics-from?s=r)
-* [Speeding up the EVM by Flashbots](https://writings.flashbots.net/research/speeding-up-evm-part-1/)
-
-<br>
-
----
-
-## Contracts of interest
-
-<br>
-
-* [Uniswap v3](https://github.com/Uniswap/v3-core/tree/main/contracts)
-* [Fei protocol](https://github.com/fei-protocol/fei-protocol-core/tree/master/contracts)
-* [Chainlink](https://github.com/smartcontractkit/chainlink/tree/develop/contracts/src/v0.4)
-* [OpenZeppelin's ERC-20](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol)
-* [OpenZeppelin's ERC-721](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/ERC721.sol)
-* [Immunefi notes on the ERC token standard](https://medium.com/immunefi/how-erc-standards-work-part-1-c9795803f459)
-* [Security contracts from OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/security)
-
-
-
-
-<br>
-
----
-
-## Useful dev tools
+## Dev tools
 
 * [EthTx Transaction Decoder](https://ethtx.info/)
 * [Eth converter](https://eth-converter.com/)
@@ -121,3 +120,23 @@
 * [Immunefi scrapper](https://github.com/pratraut/scrapyFi)
 * [Cryptocurrency historical data snapshot](https://coinmarketcap.com/historical/)
 * [Contracts diff checker](https://etherscan.io/contractdiffchecker)
+* [Security Analysis tool for WebAssembly](https://github.com/pventuzelo/octopus)
+* [EVM toolkit](https://github.com/quilt/etk)
+* [EVM disassembler and assembler](https://github.com/crytic/pyevmasm)
+* [Analysis Tool for Smart Contracts](https://github.com/enzymefinance/oyente)
+* [Ethereum Security Toolbox](https://github.com/trailofbits/eth-security-toolbox)
+* [EVM binary static analysis](https://github.com/crytic/rattle)
+* [Static Analyzer for Solidity](https://github.com/crytic/slither)
+* [Security scanner for Ethereum smart contracts](https://github.com/eth-sri/securify2)
+* [Ethereum security analysis and testing](https://github.com/crytic/etheno)
+* [Ethereum smart contract fuzzer](https://github.com/crytic/echidna)
+* [Symbolic execution tool](https://github.com/trailofbits/manticore)
+* [Security analysis tool for EVM bytecode](https://github.com/ConsenSys/mythril)
+* [Mutation Testing for Ethereum Smart Contracts](https://github.com/JoranHonig/vertigo)
+* [Ethereum Developer Tools List](https://github.com/ConsenSys/ethereum-developer-tools-list)
+
+
+
+
+
+
