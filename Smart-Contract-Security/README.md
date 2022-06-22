@@ -18,3 +18,16 @@ In this directory:
 * [A guide for pentesting](pentesting.md)
 * [Random security notes](random-notes.md)
 * [ERC-20 things](erc-20-things.md)
+
+
+<br>
+
+---
+
+<br>
+
+### Other attacks and exploits
+
+<br>
+
+* [List of DeFi Hacks & Exploits](https://github.com/SunWeb3Sec/DeFiHackLabs/#list-of-defi-hacks--exploits)
