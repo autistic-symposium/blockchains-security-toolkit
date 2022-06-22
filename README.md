@@ -3,7 +3,7 @@
 <br>
 
 
-## EVM basics
+## EVM 
 
 <br>
 
@@ -17,7 +17,7 @@
 
 ---
 
-## Solidity basics
+## Solidity 
 
 <br>
 
@@ -37,11 +37,12 @@
 
 ----
 
-## Blockchain security basics
+## Blockchain security 
 
 <br>
 
 * [SWC Registry](https://swcregistry.io/)
+* [Blockchain Security Database](https://consensys.github.io/blockchainSecurityDB/)
 * [Intro to Security first dev](https://www.youtube.com/watch?v=72K57I9yvyI)
 * [Spoof tokens on Ethereum](https://medium.com/etherscan-blog/spoof-tokens-on-ethereum-c2ad882d9cf6)
 * [Solidity security mind map](https://github.com/x676f64/secureum-mind_map)
@@ -71,6 +72,10 @@
 * [Smart Contract Security Verification Standard](https://github.com/securing/SCSVS)
 * [SecurETH Guidelines](https://guidelines.secureth.org/)
 * [REKT leaderboard](https://rekt.news/leaderboard/)
+* [Rug Doc Wiki](https://wiki.rugdoc.io/)
+* [Smart Contract Attack Vectors](https://github.com/KadenZipfel/smart-contract-attack-vectors)
+* [List of known attack vectors](https://blog.sigmaprime.io/solidity-security.html)
+* [Awesome Ethereum security](Awesome Ethereum Security)
 
 <br>
 
@@ -106,6 +111,8 @@
 * [Gamefication vault](https://hats.finance/gamification)
 * [Cipher Shastra](https://ciphershastra.com/)
 * [Etherhack](https://etherhack.positive.com/#/)
+* [DeFiHack.xyz](https://www.defihack.xyz/)
+* [List of lockchain CTF competitions](https://github.com/blockthreat/blocksec-ctfs)
 
 
 
