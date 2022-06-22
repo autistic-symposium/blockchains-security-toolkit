@@ -30,6 +30,7 @@
 * [Solidity by Securitum bookcamp](https://www.youtube.com/watch?v=5eLqFac5Tkg)
 * [Smart contract programmer videos](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA/videos)
 * [Ethereum smart contract best practices](https://consensys.github.io/smart-contract-best-practices/)
+* [Solidity cheatsheet and best practices](https://github.com/manojpramesh/solidity-cheatsheet)
 
 
 <br>
