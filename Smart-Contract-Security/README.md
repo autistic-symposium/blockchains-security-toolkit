@@ -7,9 +7,10 @@ In this directory:
 <br>
 
 
+* [Notes on code injection via `delegatecall`](delegatecall-notes.md)
 * [Notes on reentrancy](reentrancy-notes.md)
 * [Notes on arithmetic bugs](arithmetic-bugs-notes.md)
-* [Notes on DDoS](ddos-notes.md)
+* [Notes on DDoS attacks](ddos-notes.md)
 
 <br>
 
