@@ -69,6 +69,7 @@
 * [The Solcurity Standard](https://github.com/Rari-Capital/solcurity)
 * [Smart Contract Security Verification Standard](https://github.com/securing/SCSVS)
 * [SecurETH Guidelines](https://guidelines.secureth.org/)
+* [REKT leaderboard](https://rekt.news/leaderboard/)
 
 <br>
 
