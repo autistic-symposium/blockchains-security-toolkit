@@ -75,7 +75,6 @@
 * [Rug Doc Wiki](https://wiki.rugdoc.io/)
 * [Smart Contract Attack Vectors](https://github.com/KadenZipfel/smart-contract-attack-vectors)
 * [List of known attack vectors](https://blog.sigmaprime.io/solidity-security.html)
-* [Awesome Ethereum security](Awesome Ethereum Security)
 
 <br>
 
