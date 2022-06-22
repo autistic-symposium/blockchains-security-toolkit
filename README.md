@@ -75,6 +75,7 @@
 * [Rug Doc Wiki](https://wiki.rugdoc.io/)
 * [Smart Contract Attack Vectors](https://github.com/KadenZipfel/smart-contract-attack-vectors)
 * [List of known attack vectors](https://blog.sigmaprime.io/solidity-security.html)
+* [Awesome Ethereum security](https://github.com/crytic/awesome-ethereum-security)
 
 <br>
 
@@ -111,7 +112,7 @@
 * [Cipher Shastra](https://ciphershastra.com/)
 * [Etherhack](https://etherhack.positive.com/#/)
 * [DeFiHack.xyz](https://www.defihack.xyz/)
-* [List of lockchain CTF competitions](https://github.com/blockthreat/blocksec-ctfs)
+* [List of blockchain CTF competitions](https://github.com/blockthreat/blocksec-ctfs)
 
 
 
