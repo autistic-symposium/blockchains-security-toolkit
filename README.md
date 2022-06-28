@@ -120,26 +120,33 @@
 
 ---
 
-## Dev tools
+## White hat tools
+
+<br>
+
+#### Ethereum general
+
 
 * [EthTx Transaction Decoder](https://ethtx.info/)
 * [Eth converter](https://eth-converter.com/)
-* [JSON formatter](https://jsonformatter.curiousconcept.com/)
-* [Craft requests from curl commands](https://reqbin.com/)
-* [Smart contract fuzzer](https://github.com/crytic/echidna)
-* [Smart contract code analyzer](https://github.com/crytic/slither)
-* [Another smart contract code analyzer](https://github.com/ConsenSys/mythril)
-* [Verx, smart contract verifier](http://verx.ch/)
-* [Solhint, a linter for Solidity](https://github.com/protofire/solhint)
-* [Solidity coverage tool](https://github.com/sc-forks/solidity-coverage)
-* [Vscode plugin: Solidity visual](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor)
-* [Vscode plugin: Solidity support](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity)
-* [Immunefi scrapper](https://github.com/pratraut/scrapyFi)
 * [Cryptocurrency historical data snapshot](https://coinmarketcap.com/historical/)
 * [Contracts diff checker](https://etherscan.io/contractdiffchecker)
-* [Security Analysis tool for WebAssembly](https://github.com/pventuzelo/octopus)
-* [EVM toolkit](https://github.com/quilt/etk)
-* [EVM disassembler and assembler](https://github.com/crytic/pyevmasm)
+* [Mutation Testing for Ethereum Smart Contracts](https://github.com/JoranHonig/vertigo)
+
+<br>
+
+#### Foundry
+
+* [Ethernaut x Foundry](https://github.com/ciaranmcveigh5/ethernaut-x-foundry)
+
+
+<br>
+
+#### Analysis tools
+
+* [Symbolic execution tool](https://github.com/trailofbits/manticore)
+* [Smart contract fuzzer](https://github.com/crytic/echidna)
+* [Security analysis tool for EVM bytecode](https://github.com/ConsenSys/mythril)
 * [Analysis Tool for Smart Contracts](https://github.com/enzymefinance/oyente)
 * [Ethereum Security Toolbox](https://github.com/trailofbits/eth-security-toolbox)
 * [EVM binary static analysis](https://github.com/crytic/rattle)
@@ -147,15 +154,30 @@
 * [Security scanner for Ethereum smart contracts](https://github.com/eth-sri/securify2)
 * [Ethereum security analysis and testing](https://github.com/crytic/etheno)
 * [Ethereum smart contract fuzzer](https://github.com/crytic/echidna)
-* [Symbolic execution tool](https://github.com/trailofbits/manticore)
-* [Security analysis tool for EVM bytecode](https://github.com/ConsenSys/mythril)
-* [Mutation Testing for Ethereum Smart Contracts](https://github.com/JoranHonig/vertigo)
-* [Ethereum Developer Tools List](https://github.com/ConsenSys/ethereum-developer-tools-list)
 * [A Solidity Inspector](https://github.com/ConsenSys/surya)
+* [Security Analysis tool for WebAssembly](https://github.com/pventuzelo/octopus)
+* [EVM toolkit](https://github.com/quilt/etk)
+* [EVM disassembler and assembler](https://github.com/crytic/pyevmasm)
+* [Smart contract code analyzer](https://github.com/crytic/slither)
+* [Another smart contract code analyzer](https://github.com/ConsenSys/mythril)
+* [Verx, smart contract verifier](http://verx.ch/)
+
+<br>
+
+#### VSCode
+
+* [Vscode plugin: Solidity visual](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor)
+* [Vscode plugin: Solidity support](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity)
+
+
+<br>
+
+#### Other useful dev tools
+
+* [Solhint, a linter for Solidity](https://github.com/protofire/solhint)
+* [Solidity coverage tool](https://github.com/sc-forks/solidity-coverage)
+* [JSON formatter](https://jsonformatter.curiousconcept.com/)
+* [Craft requests from curl commands](https://reqbin.com/)
 * [Tools by Notonly.owner](https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum)
-
-
-
-
-
-
+* [Ethereum Developer Tools List](https://github.com/ConsenSys/ethereum-developer-tools-list)
+* [Immunefi scrapper](https://github.com/pratraut/scrapyFi)
