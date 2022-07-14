@@ -162,6 +162,7 @@
 * [Smart contract code analyzer](https://github.com/crytic/slither)
 * [Another smart contract code analyzer](https://github.com/ConsenSys/mythril)
 * [Verx, smart contract verifier](http://verx.ch/)
+* [Semgrep rules for smart contracts](https://github.com/Raz0r/semgrep-smart-contracts)
 
 <br>
 
