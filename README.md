@@ -114,6 +114,7 @@
 * [DeFiHack.xyz](https://www.defihack.xyz/)
 * [w3b s3c](https://www.w3bs3c.com/tools)
 * [List of blockchain CTF competitions](https://github.com/blockthreat/blocksec-ctfs)
+* [Crypto blacklist](https://www.cryptoblacklist.io/en/ethereum-blacklist/)
 
 
 
@@ -165,6 +166,9 @@
 * [Smart contract code analyzer](https://github.com/crytic/slither)
 * [Verx, smart contract verifier](http://verx.ch/)
 * [Semgrep rules for smart contracts](https://github.com/Raz0r/semgrep-smart-contracts)
+* [ETH detective](https://www.ethtective.com/address/)
+* [Tornado Cash Pool Anonymity Auditor](https://tutela.xyz/)
+* [Ethereum Virtual Machine transaction tracing tool](https://github.com/ApeWorX/evm-trace)
 
 <br>
 
@@ -185,3 +189,8 @@
 * [Tools by Notonly.owner](https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum)
 * [Ethereum Developer Tools List](https://github.com/ConsenSys/ethereum-developer-tools-list)
 * [Immunefi scrapper](https://github.com/pratraut/scrapyFi)
+* [Crystal Blockchain](https://explorer.crystalblockchain.com/)
+* [0XT](https://oxt.me/)
+* [](https://www.impersonator.xyz/)
+* [CIA Officer's DeFi Roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map#transaction-visualization-scoring--tracking)
+
