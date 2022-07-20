@@ -112,6 +112,7 @@
 * [Cipher Shastra](https://ciphershastra.com/)
 * [Etherhack](https://etherhack.positive.com/#/)
 * [DeFiHack.xyz](https://www.defihack.xyz/)
+* [w3b s3c](https://www.w3bs3c.com/tools)
 * [List of blockchain CTF competitions](https://github.com/blockthreat/blocksec-ctfs)
 
 
@@ -133,11 +134,13 @@
 * [Cryptocurrency historical data snapshot](https://coinmarketcap.com/historical/)
 * [Contracts diff checker](https://etherscan.io/contractdiffchecker)
 * [Mutation Testing for Ethereum Smart Contracts](https://github.com/JoranHonig/vertigo)
+* [Tenderly](https://dashboard.tenderly.co/)
 
 <br>
 
 #### Foundry
 
+* [Foundry repo](https://github.com/foundry-rs/foundry)
 * [Ethernaut x Foundry](https://github.com/ciaranmcveigh5/ethernaut-x-foundry)
 
 
@@ -146,7 +149,7 @@
 #### Analysis tools
 
 * [Symbolic execution tool](https://github.com/trailofbits/manticore)
-* [Smart contract fuzzer](https://github.com/crytic/echidna)
+* [Echidna, smart contract fuzzer](https://github.com/crytic/echidna)
 * [Security analysis tool for EVM bytecode](https://github.com/ConsenSys/mythril)
 * [Analysis Tool for Smart Contracts](https://github.com/enzymefinance/oyente)
 * [Ethereum Security Toolbox](https://github.com/trailofbits/eth-security-toolbox)
@@ -160,7 +163,6 @@
 * [EVM toolkit](https://github.com/quilt/etk)
 * [EVM disassembler and assembler](https://github.com/crytic/pyevmasm)
 * [Smart contract code analyzer](https://github.com/crytic/slither)
-* [Another smart contract code analyzer](https://github.com/ConsenSys/mythril)
 * [Verx, smart contract verifier](http://verx.ch/)
 * [Semgrep rules for smart contracts](https://github.com/Raz0r/semgrep-smart-contracts)
 
