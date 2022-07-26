@@ -9,7 +9,7 @@ here or there. It's all good, here are a few basics about the language, so you d
 
 <br>
 
-**here.**
+**impress that cute guy/gal in 2 minutes:**
 
 <br>
 
@@ -177,7 +177,52 @@ With delegatecall, only the code of the given address is used but all other aspe
 With staticall, the execution will revert if the called function modifies the state in any way.
 
 
+<br>
 
+**Data Location.** Every reference type has an additional annotation with the data location where it is stored:
 
+* memory: lifetime is limited to an external function call
+* storage: limited to the lifetime of a contract and the location where the state variables are stored
+* calldata: non-modifiable, non-persistent area where function arguments are stored and behaves mostly like memory
 
+<br>
+
+**Block and Transaction Properties.** Cute shit.
+
+- blockhash
+- block.chainid
+- block.coinbase
+- block.difficulty 
+- block.gaslimit 
+- block.number
+- block.timestamp 
+- msg.data 
+- msg.sender 
+- msg.sig 
+- msg.value 
+- tx.gasprice 
+- gasleft
+- tx.origin
+
+<br>
+
+**Randomness**. Not cute shit: you cannot rely on block.timestamp or blockhash as a source of randomness, as they can be influenced by miners to some degree.
+
+<br>
+
+**ABI Encoding and Decoding Functions**.
+
+- abi.decode
+- abi.encode
+- abi.encodePacked
+- abi.encodeWithSelector
+- abi.encodeWithSignature
+
+<br>
+
+**Error Handling.**
+
+- assert(): causes a panic error and revert if the condition is not met
+- require(): reverts if the condition is not met
+- revert(): abort execution and revert state changes
 
