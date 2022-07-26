@@ -35,6 +35,16 @@ uint256 bigNumber;
 
 ---
 
+### Constant vs. Immutable variables
+
+Constant values can sometimes be cheaper than immutable values:
+
+1. For a constant variable, the expression assigned to it is copied to all the places where it is accessed and also re-evaluated each time, allowing local optimizations.
+2. Immutable variables are evaluated once at construction time and their value is copied to all the places in the code where they are accessed. For these values, 32 bytes are reserved, even if they would fit in fewer bytes. 
+
+
+---
+
 ### Mappings are cheaper than Arrays
 
 - An array is not stored sequentially in memory but as a mapping.
