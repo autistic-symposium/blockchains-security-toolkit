@@ -76,6 +76,7 @@
 * [Smart Contract Attack Vectors](https://github.com/KadenZipfel/smart-contract-attack-vectors)
 * [List of known attack vectors](https://blog.sigmaprime.io/solidity-security.html)
 * [Awesome Ethereum security](https://github.com/crytic/awesome-ethereum-security)
+* [Bug Bounty 101](https://www.youtube.com/watch?v=S-Z2iwbT1Fg)
 
 <br>
 
