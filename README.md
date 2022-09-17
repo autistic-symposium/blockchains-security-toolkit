@@ -139,6 +139,7 @@
 * [Contracts diff checker](https://etherscan.io/contractdiffchecker)
 * [Mutation Testing for Ethereum Smart Contracts](https://github.com/JoranHonig/vertigo)
 * [Tenderly](https://dashboard.tenderly.co/)
+* [Foundry resources](https://github.com/bt3gl-labs/Blockchain-Hacking-Toolkit/tree/main/Foundry)
 
 
 <br>
