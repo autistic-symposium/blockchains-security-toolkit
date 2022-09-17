@@ -116,6 +116,8 @@
 * [w3b s3c](https://www.w3bs3c.com/tools)
 * [List of blockchain CTF competitions](https://github.com/blockthreat/blocksec-ctfs)
 * [Crypto blacklist](https://www.cryptoblacklist.io/en/ethereum-blacklist/)
+* [Cipher Shastra](https://ciphershastra.com/)
+* [Vyper Punk](https://github.com/SupremacyTeam/VyperPunk)
 
 
 
@@ -137,13 +139,6 @@
 * [Contracts diff checker](https://etherscan.io/contractdiffchecker)
 * [Mutation Testing for Ethereum Smart Contracts](https://github.com/JoranHonig/vertigo)
 * [Tenderly](https://dashboard.tenderly.co/)
-
-<br>
-
-#### Foundry
-
-* [Foundry repo](https://github.com/foundry-rs/foundry)
-* [Ethernaut x Foundry](https://github.com/ciaranmcveigh5/ethernaut-x-foundry)
 
 
 <br>
