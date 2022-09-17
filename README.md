@@ -106,7 +106,7 @@
 <br>
 
 * [Capture the Ether](https://capturetheether.com/)
-* [Paradigm CTF 2022](https://github.com/paradigmxyz/paradigm-ctf-2022) and [Paradigm CTF 2011](https://github.com/paradigm-operations/paradigm-ctf-2021).
+* [Paradigm CTF 2022](https://github.com/paradigmxyz/paradigm-ctf-2022) and [Paradigm CTF 2021](https://github.com/paradigm-operations/paradigm-ctf-2021).
 * [Damn vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
 * [A collection of EVM puzzles](https://github.com/fvictorio/evm-puzzles)
 * [Gamefication vault](https://hats.finance/gamification)
