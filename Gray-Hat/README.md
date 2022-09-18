@@ -18,3 +18,16 @@
 <br>
 
 * [RSS3](https://rss3.io/)
+* [DeBank](https://debank.com/)
+
+
+<br>
+
+---
+
+### Privacy tools
+
+<br>
+
+* [PT.io](https://www.privacytools.io/)
+* [Needl](https://github.com/eth0izzle/Needl)
