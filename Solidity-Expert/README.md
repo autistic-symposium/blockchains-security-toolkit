@@ -1,11 +1,23 @@
 # 👾 Becoming a Solidity Expert
 
+
 <br>
 
-*All right, so you are a developer and you feel pretty good about your skills, but now you want to be a Solidity expert.
-I hear you, I was there once.
-It might take a few months for you to get out of the inertia and actually become good. Or you might just be more like an "enthusiast" and do a thing
-here or there. It's all good, here are a few basics about the language, so you don't sound dumb when talking to new frens at that ethereum after party.*
+### Glossary
+
+<br>
+
+* msg object: the transaction that triggered the execution of the contract.
+* msg.sender: sender address of the transaction.
+
+
+
+
+<br>
+
+---
+
+### Cool TL;DR
 
 <br>
 
