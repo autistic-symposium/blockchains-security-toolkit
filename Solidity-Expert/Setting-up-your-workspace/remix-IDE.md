@@ -1,5 +1,7 @@
 ## Remix IDE
 
+<br>
+
 Remix IDE is an open source web3 application and it's used for the entire journey of smart contract development.
 
 <br>
@@ -13,21 +15,32 @@ Remix IDE is an open source web3 application and it's used for the entire journe
 * By default, Remix stores files in Workspaces, which are folders in the browser's local storage.
 * You can publish all files from current workspace to a gist, using the Gist API.
 
+
+<br>
+
 #### Compiler (Solidity)
 
 * You can compile (and deploy) contracts with versions of Solidity older than 0.4.12. However, the older compilers used a legacy AST.
 * The "fork selection" dropdown list allows to compile code against a specific ehtereum hard fork.
+
+
+<br>
 
 #### Optimization
 
 * The optimizer tries to simplify complicated expressions, which reduces both code size and execution cost. It can reduce gas needed for contract deployment as well as for external calls made to the contract.
 
 
+<br>
+
 #### Environment
 
 * `JavaScript VM`: All transactions will be executed in a sandbox blockchain in the browser.
 * `Injected Provider`: Metamaask is an example of a profiver that inject web3.
 * `Web3 Provider`: Remix will connect to a remote node (you need to provide the URL to the selected provider: geth, parity or any ethereum client)
+
+
+<br>
 
 #### Setup
 
@@ -42,6 +55,7 @@ Remix IDE is an open source web3 application and it's used for the entire journe
 * Hardhat integration can be done with `hardhat.config.js` (Hardhat websocket listener should run at `65522`). Hardhat provider is a plugin for Remix IDE.
 
 
+<br>
 
 #### Generate artifacts
 
