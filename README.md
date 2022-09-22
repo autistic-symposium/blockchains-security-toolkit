@@ -189,4 +189,5 @@
 * [0XT](https://oxt.me/)
 * [Impersonator](https://www.impersonator.xyz/)
 * [CIA Officer's DeFi Roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map#transaction-visualization-scoring--tracking)
+* [Mnemonic Code Converter](https://iancoleman.io/bip39/)
 
