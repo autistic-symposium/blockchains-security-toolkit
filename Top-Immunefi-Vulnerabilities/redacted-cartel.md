@@ -8,9 +8,9 @@
 
 * The vulnerability was rated as critical because it would have allowed a malicious attacker to assign a user’s allowance to themselves, enabling the attacker to steal that user’s funds. 
 
-* The purpose of ERC-20’s `approve(spender, amount)` function is to allow any address to spend the tokens on behalf of the tokens’ owner.
+* The purpose of ERC20’s `approve(spender, amount)` function is to allow any address to spend the tokens on behalf of the tokens’ owner.
 
-* The vulnerability here consisted of a faulty implementation of standard ERC-20 functions in REDACTED’s wxBTRFLY token, which is a wrapped version of the xBTRFLY.
+* The vulnerability here consisted of a faulty implementation of standard ERC20 functions in REDACTED’s wxBTRFLY token, which is a wrapped version of the xBTRFLY.
 
 
 ### Vulnerability
@@ -42,7 +42,7 @@ where `allowance(sender, recipient)` should be `allowance(sender, msg.sender)`.
 
 <br>
 
-[Here](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol) is how OpenZeppelin implements this function for `ERC-20`:
+[Here](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol) is how OpenZeppelin implements this function for `ERC20`:
 
 ```
     function transferFrom(
