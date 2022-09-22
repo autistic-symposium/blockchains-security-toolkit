@@ -21,7 +21,7 @@
 
 * [A guide for pentesting](pentesting.md)
 * [Random security notes](random-notes.md)
-* [ERC-20 things](erc-20-things.md)
+* [ERC20 things](erc20-things.md)
 
 
 <br>
