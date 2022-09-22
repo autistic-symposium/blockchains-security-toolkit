@@ -14,8 +14,8 @@
 * Optimism’s approach to this is different from other L2 scaling solutions. Here, executing and proving are done together.
 * If there were a dispute between Alice and Bob, the transaction in question would be re-executed (replayed) on the L1 chain. But this introduces some potential issues, as we cannot rely on certain opcodes to return the same value on the L1 chain and the L2 chain. Certain ones like BLOCKNUMBER, for example, won’t produce the same value because they rely on blockchain metadata or information from the time of proving (instead of the time of execution).
 * The solution is introducing a mechanism that would help retain the context of the disputed transaction on L2 when verifying it on L1. Optimism Virtual Machine (OVM 2.0) replaces all context-dependent opcodes with OVM counterparts, like ovmBLOCKNUMBER.
-* The OVM 1.0 decided to store ETH as ERC-20 tokens instead. This caused some issues for Optimism, as the network needed to support all things that were working on Ethereum but was broken due to this, like gas tokens. When OVM 2.0 launched, OVM 2.0 stopped support for this feature but still stores all of the balances for user accounts in the storage state of an ERC-20 contract.
-* Optimism modified Geth, one of the original three implementations of Ethereum protocol, to apply patches to StateDB to store the native balances in an ERC-20 token storage state.
+* The OVM 1.0 decided to store ETH as ERC20 tokens instead. This caused some issues for Optimism, as the network needed to support all things that were working on Ethereum but was broken due to this, like gas tokens. When OVM 2.0 launched, OVM 2.0 stopped support for this feature but still stores all of the balances for user accounts in the storage state of an ERC20 contract.
+* Optimism modified Geth, one of the original three implementations of Ethereum protocol, to apply patches to StateDB to store the native balances in an ERC20 token storage state.
 
 <br>
 
