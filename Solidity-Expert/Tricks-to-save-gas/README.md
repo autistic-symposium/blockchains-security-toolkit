@@ -6,12 +6,17 @@
 - *In DeFi, any gas saving is an edge. Below are some notes on tricks we use.*
 - Note that in Solidity, the maximum size of a contract is restricted to 24 KB by [EIP 170](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-170.md).
 
+
+
+
 ---
+
+
 
 ## Function names
 
-- In Ninja we brute force hashes of function names to find those that starts `0000`, so this can save around 50 gas
-- TBA: show the code
+- brute force hashes of function names to find those that starts `0000`, so this can save around 50 gas
+- avoid calls to other contracts
 
 ---
 
@@ -47,6 +52,7 @@ Constant values can sometimes be cheaper than immutable values:
 
 ### Mappings are cheaper than Arrays
 
+- avoid dynamically sized arrays
 - An array is not stored sequentially in memory but as a mapping.
 - You can pack Arrays but not Mappings.
 - It’s cheaper to use arrays if you are using smaller elements like `uint8` which can be packed together.
