@@ -1,4 +1,4 @@
-## ERC-20 Things
+## ERC20 Things
 
 <br>
 
