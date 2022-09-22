@@ -12,3 +12,10 @@
 ---
 
 ### [ERC777](https://github.com/bt3gl-labs/Blockchain-Hacking-Toolkit/blob/main/Solidity-Expert/Token-standards/erc777.md)
+
+
+<br>
+
+---
+
+### [ERC721](https://github.com/bt3gl-labs/Blockchain-Hacking-Toolkit/blob/main/Solidity-Expert/Token-standards/erc721.md)
