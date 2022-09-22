@@ -2,17 +2,21 @@
 
 <br>
 
-In this directory:
+
+### Vulns
 
 <br>
 
-
-* [Notes on code injection via `delegatecall`](delegatecall-notes.md)
-* [Notes on reentrancy](reentrancy-notes.md)
-* [Notes on arithmetic bugs](arithmetic-bugs-notes.md)
-* [Notes on DDoS attacks](ddos-notes.md)
+* [Code injection via `delegatecall`](delegatecall-notes.md)
+* [Reentrancy](reentrancy-notes.md)
+* [Arithmetic bugs](arithmetic-bugs-notes.md)
+* [DDoS attacks](ddos-notes.md)
 
 <br>
+
+---
+
+### Notes
 
 
 * [A guide for pentesting](pentesting.md)
