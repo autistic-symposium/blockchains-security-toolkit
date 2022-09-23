@@ -1,4 +1,4 @@
-## ☠️ Top public vulnerabilities reported to Immunefi
+## 🌮 top public vulnerabilities reported to immunefi
 
 <br>
 
