@@ -1,4 +1,4 @@
-## Oracles
+## 🍣 oracles
 
 <br>
 
@@ -9,7 +9,7 @@
 
 <br>
 
-### ChainLink 
+### chainLlink 
 
 
 A decentralized oracle network consisting of three key smart contracts:
