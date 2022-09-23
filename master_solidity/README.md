@@ -1,9 +1,9 @@
-# 👾 Becoming a Solidity Expert
+# 🍿 master solidity
 
 
 <br>
 
-## Predefined global variables and functions
+## predefined global variables and functions
 
 <br>
 
@@ -13,7 +13,7 @@
 
 <br>
 
-### msg
+#### msg
 
 * msg object: the transaction that triggered the execution of the contract.
 * msg.sender: sender address of the transaction.
@@ -23,14 +23,14 @@
 
 <br>
 
-## tx
+#### tx
 
 * tx.gasprice: gas price in the calling transaction.
 * tx.origin: address of the originating EOA for this transaction. WARNING: unsafe!
 
 <br>
 
-### block
+#### block
 
 * block.coinbase: address of the recipient of the current block's fees and block reward.
 * block.gaslimit: maximum amount of gas that can be spent across all transactions included in the current block.
@@ -39,7 +39,7 @@
 
 <br>
 
-### address
+#### address
 
 * address.balance: balance of the address, in wei. 
 * address.transfer(__amount__): Transfers the amount (in wei) to this address, throwing an exception on any error.
@@ -50,7 +50,7 @@
 
 <br>
 
-### built-in functions
+#### built-in functions
 
 * addmod, mulmod: for modulo addition and multiplication. For example, addmod(x,y,k) calculates (x + y) % k.
 * keccak256, sha256, sha3, ripemd160: calculate hashes with various standard hash algorithms.
@@ -64,7 +64,7 @@
 
 ---
 
-## TL;DR Solidity x Python/C++
+## TL;DR solidity x python/C++
 
 
 <br>
@@ -258,7 +258,7 @@ Interesting facts:
 
 ----
 
-## Calling another contract
+## calling another contract
 
 <br>
 
