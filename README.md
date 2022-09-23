@@ -1,9 +1,9 @@
-# 🧱⛓☠️ Blockchain Development and Security
+# 🧱⛓☠️ 1337 blockchain hacker toolkit
 
 <br>
 
 
-## EVM 
+## the evm 
 
 <br>
 
@@ -17,7 +17,7 @@
 
 ---
 
-## Solidity 
+## solidity 
 
 <br>
 
@@ -37,7 +37,7 @@
 
 ----
 
-## Blockchain security 
+## all things security 
 
 <br>
 
@@ -84,7 +84,7 @@
 
 ---
 
-## Contracts of interest
+## contracts of interest
 
 <br>
 
@@ -101,7 +101,7 @@
 
 ---
 
-## Practice your hacking skils
+## practice your hacking skils
 
 <br>
 
@@ -125,11 +125,11 @@
 
 ---
 
-## Hacking tools
+## hacking tools
 
 <br>
 
-#### Ethereum general
+#### ethereum general
 
 
 * [Ethstats](https://ethstats.net/)
@@ -146,7 +146,7 @@
 
 <br>
 
-#### Analysis tools
+#### analysis tools
 
 * [Manticor, symbolic execution tool](https://github.com/trailofbits/manticore)
 * [Echidna, smart contract fuzzer](https://github.com/crytic/echidna)
@@ -169,7 +169,7 @@
 
 <br>
 
-#### VSCode
+#### vscode
 
 * [Vscode plugin: Solidity visual](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor)
 * [Vscode plugin: Solidity support](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity)
@@ -177,7 +177,7 @@
 
 <br>
 
-#### Other useful dev tools
+#### other useful dev tools
 
 * [Solhint, a linter for Solidity](https://github.com/protofire/solhint)
 * [Solidity coverage tool](https://github.com/sc-forks/solidity-coverage)
