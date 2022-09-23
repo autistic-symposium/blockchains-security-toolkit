@@ -2,7 +2,7 @@
 
 <br>
 
-## in this repo
+## 🍩 in this repo
 
 <br>
 
@@ -19,7 +19,7 @@
 
 ---
 
-## resources
+## 🍧 resources
 
 <br>
 
@@ -57,7 +57,7 @@
 
 ----
 
-### all things security 
+### 🥧 all things security 
 
 <br>
 
@@ -104,7 +104,7 @@
 
 ---
 
-### contracts of interest
+### 🥞 contracts of interest
 
 <br>
 
@@ -121,7 +121,7 @@
 
 ---
 
-### practice your hacking skils
+### 🧁 practice your hacking skils
 
 <br>
 
@@ -145,7 +145,7 @@
 
 ---
 
-### hacking tools
+### 🍰 hacking tools
 
 <br>
 
