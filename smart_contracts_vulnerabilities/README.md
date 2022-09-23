@@ -1,37 +1,36 @@
-## ☠️ Smart Contract Security
+## 🥬 smart contract vulnerabilities
 
 <br>
 
 
-### Vulns
+#### vulns
 
 <br>
 
-* [Code injection via `delegatecall`](delegatecall-notes.md)
-* [Reentrancy](reentrancy-notes.md)
-* [Arithmetic bugs](arithmetic-bugs-notes.md)
-* [DDoS attacks](ddos-notes.md)
+
+* [code injection via `delegatecall`](delegatecall-notes.md)
+* [reentrancy](reentrancy-notes.md)
+* [arithmetic bugs](arithmetic-bugs-notes.md)
+* [ddos attacks](ddos-notes.md)
 
 <br>
 
----
-
-### Notes
 
 
-* [A guide for pentesting](pentesting.md)
-* [Random security notes](random-notes.md)
+#### notes
 
+<br>
+
+
+* [a guide for pentesting](pentesting.md)
+* [random security notes](random-notes.md)
 
 
 <br>
 
----
+
+#### resources
 
 <br>
 
-### Other attacks and exploits
-
-<br>
-
-* [List of DeFi Hacks & Exploits](https://github.com/SunWeb3Sec/DeFiHackLabs/#list-of-defi-hacks--exploits)
+* [list of defi hacks & exploits](https://github.com/SunWeb3Sec/DeFiHackLabs/#list-of-defi-hacks--exploits)
