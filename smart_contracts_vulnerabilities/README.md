@@ -23,7 +23,8 @@
 
 
 * [a guide for pentesting](pentesting.md)
-* [random security notes](random-notes.md)
+* [randomness in ethereum](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/blob/main/smart_contracts_vulnerabilities/random_numbers.md)
+* [security tips](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/blob/main/smart_contracts_vulnerabilities/security_tips.md)
 
 
 <br>
