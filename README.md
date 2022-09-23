@@ -2,8 +2,28 @@
 
 <br>
 
+## in this repo
 
-## the evm 
+<br>
+
+* [master solidity](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/master_solidity)
+* [the evm and opcodes](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/evm_and_opcodes)
+* [smart contract vulns](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/smart_contracts_vulnerabilities)
+* [top immunefi vulns](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/top-immunefi-vulnerabilities)
+* [gray hacker stuff](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/gray_hat_stuff)
+* [foundry](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/foundry)
+* [oracles](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/oracles)
+
+
+<br>
+
+---
+
+## resources
+
+<br>
+
+### the evm 
 
 <br>
 
@@ -17,7 +37,7 @@
 
 ---
 
-## solidity 
+### solidity 
 
 <br>
 
@@ -37,7 +57,7 @@
 
 ----
 
-## all things security 
+### all things security 
 
 <br>
 
@@ -84,7 +104,7 @@
 
 ---
 
-## contracts of interest
+### contracts of interest
 
 <br>
 
@@ -101,7 +121,7 @@
 
 ---
 
-## practice your hacking skils
+### practice your hacking skils
 
 <br>
 
@@ -125,7 +145,7 @@
 
 ---
 
-## hacking tools
+### hacking tools
 
 <br>
 
