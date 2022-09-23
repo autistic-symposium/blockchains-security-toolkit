@@ -1,8 +1,8 @@
-# ✨ The EVM ✨
+## 🍱 the evm
 
 <br>
 
-## tl;dr
+### tl;dr
 
 * EVM is a quasi-Turing complete machine (quasi because computation is intrinsically bounded/limited through a parameter: gas) 
 * EVM is the runtime environment for smart contracts.
@@ -11,17 +11,18 @@
 
 <br>
 
+---
+
+### resources
+
+<br>
 
 * [opcodes](https://github.com/bt3gl-labs/Blockchain-Hacking-Toolkit/blob/main/EVM-and-opcodes/opcodes.md)
 
 
 <br>
 
----
-
-<br>
-
-### Disassemblers
+##### disassemblers
 
 <br>
 
