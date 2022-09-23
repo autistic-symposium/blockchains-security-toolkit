@@ -1,8 +1,8 @@
-## Gray hacker stuff
+## 🥯 gray hacker stuff
 
 <br>
 
-### Anon tools
+### anon tools
 
 <br>
 
@@ -13,7 +13,7 @@
 
 ---
 
-### Doxxing tools
+### doxxing tools
 
 <br>
 
@@ -25,7 +25,7 @@
 
 ---
 
-### Privacy tools
+### privacy tools
 
 <br>
 
