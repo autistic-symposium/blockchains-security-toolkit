@@ -17,7 +17,7 @@
 
 <br>
 
-* [opcodes](https://github.com/bt3gl-labs/Blockchain-Hacking-Toolkit/blob/main/EVM-and-opcodes/opcodes.md)
+* [opcodes for the evm](https://ethereum.org/en/developers/docs/evm/opcodes/)
 
 
 <br>
