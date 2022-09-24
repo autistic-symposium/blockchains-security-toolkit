@@ -168,7 +168,7 @@
 
 #### analysis tools
 
-* [Manticor, symbolic execution tool](https://github.com/trailofbits/manticore)
+* [Manticore, symbolic execution tool](https://github.com/trailofbits/manticore)
 * [Echidna, smart contract fuzzer](https://github.com/crytic/echidna)
 * [Mythril, security analysis tool for EVM bytecode](https://github.com/ConsenSys/mythril)
 * [Oyente, analysis Tool for Smart Contracts](https://github.com/enzymefinance/oyente)
