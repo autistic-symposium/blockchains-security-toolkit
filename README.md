@@ -51,6 +51,8 @@
 * [Smart contract programmer videos](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA/videos)
 * [Ethereum smart contract best practices](https://consensys.github.io/smart-contract-best-practices/)
 * [Solidity cheatsheet and best practices](https://github.com/manojpramesh/solidity-cheatsheet)
+* [Vscode plugin: Solidity visual](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor)
+* [Vscode plugin: Solidity support](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity)
 
 
 <br>
@@ -71,8 +73,7 @@
 * [Uniswap Oracle Attack Simulator by Euler](https://blog.euler.finance/uniswap-oracle-attack-simulator-42d18adf65af)
 * [Thinking About Smart Contract Security by Vitalik](https://blog.ethereum.org/2016/06/19/thinking-smart-contract-securi`ty/)
 * [Advanced Pitfalls and best practices](https://github.com/x676f64/secureum-mind_map/blob/master/5.%20Pitfalls%20and%20Best%20Practices%20201.md)
-* [246 Findings From our Smart Contract Audits: An Executive Summary](https://blog.trailofbits.com/2019/08/08/246-findings-from-our-smart-contract-audits-an-executive-summary/)
-* [Dan Guido: Trail of Bits – The Evolution of Smart Contract Security](https://www.youtube.com/watch?v=fOkQuNzVn_Q)
+* [The Evolution of Smart Contract Security](https://www.youtube.com/watch?v=fOkQuNzVn_Q)
 * [Audit findings](https://github.com/x676f64/secureum-mind_map/blob/master/7.%20Audit%20Findings%20101.md)
 * [Advanced audit findings](https://github.com/x676f64/secureum-mind_map/blob/master/8.%20Audit%20Findings%20201.md)
 * [Video on audit findings](https://www.youtube.com/watch?v=SromSImIpHE)
@@ -97,6 +98,17 @@
 * [List of known attack vectors](https://blog.sigmaprime.io/solidity-security.html)
 * [Awesome Ethereum security](https://github.com/crytic/awesome-ethereum-security)
 * [Bug Bounty 101](https://www.youtube.com/watch?v=S-Z2iwbT1Fg)
+
+
+<br>
+
+#### documented defi and blockchains exploits
+
+<br>
+
+* [defi hacks](https://cryptosec.info/defi-hacks/)
+* [246 Findings From our Smart Contract Audits](https://blog.trailofbits.com/2019/08/08/246-findings-from-our-smart-contract-audits-an-executive-summary/)
+
 
 <br>
 
@@ -134,10 +146,10 @@
 * [Etherhack](https://etherhack.positive.com/#/)
 * [DeFiHack.xyz](https://www.defihack.xyz/)
 * [w3b s3c](https://www.w3bs3c.com/tools)
-* [List of blockchain CTF competitions](https://github.com/blockthreat/blocksec-ctfs)
 * [Crypto blacklist](https://www.cryptoblacklist.io/en/ethereum-blacklist/)
 * [Cipher Shastra](https://ciphershastra.com/)
 * [Vyper Punk](https://github.com/SupremacyTeam/VyperPunk)
+* [List of blockchain CTF competitions](https://github.com/blockthreat/blocksec-ctfs)
 
 
 
@@ -149,17 +161,17 @@
 
 <br>
 
+
+
 #### ethereum general
 
 
+* [Tenderly](https://dashboard.tenderly.co/)
 * [Ethstats](https://ethstats.net/)
 * [EthTx Transaction Decoder](https://ethtx.info/)
 * [Eth converter](https://eth-converter.com/)
-* [Cryptocurrency historical data snapshot](https://coinmarketcap.com/historical/)
 * [Contracts diff checker](https://etherscan.io/contractdiffchecker)
 * [Mutation Testing for Ethereum Smart Contracts](https://github.com/JoranHonig/vertigo)
-* [Tenderly](https://dashboard.tenderly.co/)
-* [Foundry resources](https://github.com/bt3gl-labs/Blockchain-Hacking-Toolkit/tree/main/Foundry)
 * [Wallet impersonator](https://www.impersonator.xyz/)
 * [Ethereum nodes](https://ethereumnodes.com/)
 * [ERC20 verifier](https://erc20-verifier.openzeppelin.com/) and [the source code](https://github.com/tinchoabbate/slither-scripts/tree/master/erc20)
@@ -167,7 +179,7 @@
 
 <br>
 
-#### analysis tools
+#### security analysis tools
 
 * [Manticore, symbolic execution tool](https://github.com/trailofbits/manticore)
 * [Echidna, smart contract fuzzer](https://github.com/crytic/echidna)
@@ -185,20 +197,13 @@
 * [Verx, smart contract verifier](http://verx.ch/)
 * [Semgrep rules for smart contracts](https://github.com/Raz0r/semgrep-smart-contracts)
 * [ETH detective](https://www.ethtective.com/address/)
-* [Tornado Cash Pool Anonymity Auditor](https://tutela.xyz/)
 * [EVM-trace, Ethereum Virtual Machine transaction tracing tool](https://github.com/ApeWorX/evm-trace)
 
-<br>
-
-#### vscode
-
-* [Vscode plugin: Solidity visual](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor)
-* [Vscode plugin: Solidity support](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity)
 
 
 <br>
 
-#### other useful dev tools
+#### other useful tools
 
 * [Solhint, a linter for Solidity](https://github.com/protofire/solhint)
 * [Solidity coverage tool](https://github.com/sc-forks/solidity-coverage)
@@ -212,4 +217,6 @@
 * [Impersonator](https://www.impersonator.xyz/)
 * [CIA Officer's DeFi Roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map#transaction-visualization-scoring--tracking)
 * [Mnemonic Code Converter](https://iancoleman.io/bip39/)
+* [Tornado Cash Pool Anonymity Auditor](https://tutela.xyz/)
+* [Cryptocurrency historical data snapshot](https://coinmarketcap.com/historical/)
 
