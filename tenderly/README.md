@@ -1,4 +1,4 @@
-## 🧉 Tenderly
+## 🧉 tenderly
 
 <br>
 
