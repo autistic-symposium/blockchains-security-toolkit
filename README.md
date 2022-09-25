@@ -162,6 +162,7 @@
 * [Foundry resources](https://github.com/bt3gl-labs/Blockchain-Hacking-Toolkit/tree/main/Foundry)
 * [Wallet impersonator](https://www.impersonator.xyz/)
 * [Ethereum nodes](https://ethereumnodes.com/)
+* [ERC20 verifier](https://erc20-verifier.openzeppelin.com/)
 
 
 <br>
