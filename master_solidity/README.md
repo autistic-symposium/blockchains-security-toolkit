@@ -58,6 +58,21 @@
 * selfdestruct(__recipient_address__): deletes the current contract, sending any remaining ether in the account to the recipient address.
 * this: address of the currently executing contract account.
 
+<br>
+
+#### what is considered modifying state
+
+- writing to state variables
+- emitting events
+- creating other contracts
+- sending ether via calls
+- using selfdestruct
+- using low-level calls
+- calling any function not marked view or pure
+- using inline assembly that contains certain opcodes
+
+
+
 
 
 <br>
