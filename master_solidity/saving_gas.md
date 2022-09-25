@@ -12,14 +12,19 @@
 
 
 
-## Function names
+### Function names
 
 - brute force hashes of function names to find those that starts `0000`, so this can save around 50 gas
+
+----
+
+### Other contracts
+
 - avoid calls to other contracts
 
 ---
 
-## Pack variables
+### Pack variables
 
 The below code is an example of poor code and will consume 3 storage slot:
 
@@ -59,14 +64,14 @@ Constant values can sometimes be cheaper than immutable values:
 
 ---
 
-## **Use bytes32 rather than string/bytes**
+### **Use bytes32 rather than string/bytes**
 
 - If you can fit your data in 32 bytes, then you should use bytes32 datatype rather than bytes or strings as it is much cheaper in solidity.
 - Any fixed size variable in solidity is cheaper than variable size.
 
 ---
 
-## Use external function modifier
+### Use external function modifier
 
 - For all the public functions, the input parameters are copied to memory automatically, and it costs gas.
 - If your function is only called externally, then you should explicitly mark it as external.
@@ -75,13 +80,13 @@ Constant values can sometimes be cheaper than immutable values:
 
 ---
 
-## Delete variables that you don’t need
+### Delete variables that you don’t need
 
 - If you don’t need a variable anymore, you should delete it using the delete keyword provided by solidity or by setting it to its default value.
 
 ---
 
-## **No need to initialize variables with default values**
+### **No need to initialize variables with default values**
 
 - If a variable is not set/initialized, it is assumed to have the default value (0, false, 0x0 etc depending on the data type). If you explicitly initialize it with its default value, you are just wasting gas.
 
@@ -92,8 +97,20 @@ uint256 world; //good, cheap
 
 ---
 
-## **Make use of single line swaps**
+### Make use of single line swaps 
+
+- This is space-efficient:
 
 ```
 (hello, world) = (world, hello)
 ```
+
+<br>
+
+---
+
+## Tools
+
+<br>
+
+* [truffle contract size](https://github.com/IoBuilders/truffle-contract-size)
