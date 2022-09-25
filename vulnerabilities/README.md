@@ -8,7 +8,7 @@
 <br>
 
 
-* [code injection via `delegatecall`](delegatecall-notes.md)
+* [code injection via `delegatecall`](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/vulnerabilities/delegatecall)
 * [reentrancy](reentrancy-notes.md)
 * [arithmetic bugs](arithmetic-bugs-notes.md)
 * [ddos attacks](ddos-notes.md)
