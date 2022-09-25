@@ -11,7 +11,9 @@
 * [vulnerabilities](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/vulnerabilities)
 * [top immunefi vulns](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/top_immunefi_vulnerabilities)
 * [gray hacker stuff](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/gray_hat_stuff)
+* [solana](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/solana)
 * [foundry](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/foundry)
+* [tenderly](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/tenderly)
 * [oracles](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/oracles)
 
 
@@ -93,7 +95,6 @@
 * [Smart Contract Security Verification Standard](https://github.com/securing/SCSVS)
 * [SecurETH Guidelines](https://guidelines.secureth.org/)
 * [REKT leaderboard](https://rekt.news/leaderboard/)
-* [Rug Doc Wiki](https://wiki.rugdoc.io/)
 * [Smart Contract Attack Vectors](https://github.com/KadenZipfel/smart-contract-attack-vectors)
 * [List of known attack vectors](https://blog.sigmaprime.io/solidity-security.html)
 * [Awesome Ethereum security](https://github.com/crytic/awesome-ethereum-security)
@@ -107,7 +108,9 @@
 <br>
 
 * [defi hacks](https://cryptosec.info/defi-hacks/)
+* [Rug Doc Wiki](https://wiki.rugdoc.io/)
 * [246 Findings From our Smart Contract Audits](https://blog.trailofbits.com/2019/08/08/246-findings-from-our-smart-contract-audits-an-executive-summary/)
+* [rug pull checker tools](https://graph.org/A-Short-List-of-the-Rug-Checker-Tools-04-09)
 
 
 <br>
@@ -138,6 +141,7 @@
 <br>
 
 * [Capture the Ether](https://capturetheether.com/)
+* [the ethernaut](https://ethernaut.openzeppelin.com/)
 * [Paradigm CTF 2022](https://github.com/paradigmxyz/paradigm-ctf-2022) and [Paradigm CTF 2021](https://github.com/paradigm-operations/paradigm-ctf-2021).
 * [Damn vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
 * [A collection of EVM puzzles](https://github.com/fvictorio/evm-puzzles)
@@ -149,6 +153,7 @@
 * [Crypto blacklist](https://www.cryptoblacklist.io/en/ethereum-blacklist/)
 * [Cipher Shastra](https://ciphershastra.com/)
 * [Vyper Punk](https://github.com/SupremacyTeam/VyperPunk)
+* [more blockchain ctfs](https://github.com/minaminao/ctf-blockchain/)
 * [List of blockchain CTF competitions](https://github.com/blockthreat/blocksec-ctfs)
 
 
@@ -166,7 +171,7 @@
 #### ethereum general
 
 
-* [Tenderly](https://dashboard.tenderly.co/)
+
 * [Ethstats](https://ethstats.net/)
 * [EthTx Transaction Decoder](https://ethtx.info/)
 * [Eth converter](https://eth-converter.com/)
@@ -175,6 +180,7 @@
 * [Wallet impersonator](https://www.impersonator.xyz/)
 * [Ethereum nodes](https://ethereumnodes.com/)
 * [ERC20 verifier](https://erc20-verifier.openzeppelin.com/) and [the source code](https://github.com/tinchoabbate/slither-scripts/tree/master/erc20)
+
 
 
 <br>
