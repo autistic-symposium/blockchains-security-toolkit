@@ -2,20 +2,45 @@
 
 <br>
 
-## 🍩 in this repo
+## 🍩 sections in this repo
 
 <br>
 
-* [master solidity](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/master_solidity)
+#### ethereum
+
+<br>
+
+* [solidity](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/master_solidity)
 * [the evm and opcodes](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/evm_and_opcodes)
-* [vulnerabilities](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/vulnerabilities)
-* [top immunefi vulns](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/top_immunefi_vulnerabilities)
-* [gray hacker stuff](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/gray_hat_stuff)
+
+
+<br>
+
+#### other chains
+
 * [solana](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/solana)
+
+<br>
+
+#### tools
+
+<br>
+
+* [static analysis](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/static_analysis_tools)
+* [dynamic analysis](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/dynamic_analysis_tools)
 * [foundry](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/foundry)
 * [tenderly](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/tenderly)
 * [oracles](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/oracles)
 
+<br>
+
+#### general
+
+<br>
+
+* [vulnerabilities](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/vulnerabilities)
+* [top immunefi vulns](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/top_immunefi_vulnerabilities)
+* [gray hacker stuff](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/gray_hat_stuff)
 
 <br>
 
@@ -185,17 +210,11 @@
 
 <br>
 
-#### security analysis tools
+#### somehow relevant
 
-* [Manticore, symbolic execution tool](https://github.com/trailofbits/manticore)
-* [Echidna, smart contract fuzzer](https://github.com/crytic/echidna)
-* [Mythril, security analysis tool for EVM bytecode](https://github.com/ConsenSys/mythril)
 * [Oyente, analysis Tool for Smart Contracts](https://github.com/enzymefinance/oyente)
 * [Trail of Bits' Ethereum Security Toolbox](https://github.com/trailofbits/eth-security-toolbox)
-* [Rattler, EVM binary static analysis](https://github.com/crytic/rattle)
-* [Slither, Static Analyzer for Solidity](https://github.com/crytic/slither)
 * [Securify, Security scanner for Ethereum smart contracts](https://github.com/eth-sri/securify2)
-* [Etheno, Ethereum security analysis and testing](https://github.com/crytic/etheno)
 * [Surya, A Solidity Inspector](https://github.com/ConsenSys/surya)
 * [Octopus, Security Analysis tool for WebAssembly](https://github.com/pventuzelo/octopus)
 * [ETK, EVM toolkit](https://github.com/quilt/etk)
