@@ -1,4 +1,4 @@
-## Reentrancy
+## 🥛 reeentrancy
 
 
 <br>
@@ -87,3 +87,4 @@ function withdrawBalance() public {
 * [DASP](https://www.dasp.co/#item-1)
 * [SWC](https://swcregistry.io/docs/SWC-107)
 * [Not so smart contract](https://github.com/crytic/not-so-smart-contracts/tree/master/reentrancy)
+* [reentrancy patterns](https://github.com/uni-due-syssec/eth-reentrancy-attack-patterns)
