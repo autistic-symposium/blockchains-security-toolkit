@@ -3,8 +3,7 @@
 
 <br>
 
-- *In DeFi, any gas saving is an edge. Below are some notes on tricks we use.*
-- Note that in Solidity, the maximum size of a contract is restricted to 24 KB by [EIP 170](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-170.md).
+- in Solidity, the maximum size of a contract is restricted to 24 KB by [EIP 170](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-170.md).
 
 
 
