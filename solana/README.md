@@ -2,4 +2,4 @@
 
 <br>
 
-* [solsec](https://github.com/0xsanny/solsec0
+* [solsec](https://github.com/0xsanny/solsec0)
