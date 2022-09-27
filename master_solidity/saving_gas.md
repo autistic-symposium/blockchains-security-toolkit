@@ -3,8 +3,6 @@
 
 <br>
 
-- in Solidity, the maximum size of a contract is restricted to 24 KB by [EIP 170](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-170.md).
-
 
 
 
@@ -109,8 +107,10 @@ uint256 world; //good, cheap
 
 ---
 
-## Tools
+## resources and tools
 
 <br>
 
 * [truffle contract size](https://github.com/IoBuilders/truffle-contract-size)
+* [Solidity Gas Optimizations, The Innovative & Dangerous
+](https://mirror.xyz/haruxe.eth/DW5verFv8KsYOBC0SxqWORYry17kPdeS94JqOVkgxAA)
