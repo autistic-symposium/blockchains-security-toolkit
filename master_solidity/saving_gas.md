@@ -49,6 +49,11 @@ Constant values can sometimes be cheaper than immutable values:
 1. For a constant variable, the expression assigned to it is copied to all the places where it is accessed and also re-evaluated each time, allowing local optimizations.
 2. Immutable variables are evaluated once at construction time and their value is copied to all the places in the code where they are accessed. For these values, 32 bytes are reserved, even if they would fit in fewer bytes. 
 
+---
+
+### Iterators
+
+* ++i uses 5 gas less than i++ 
 
 ---
 
@@ -69,12 +74,14 @@ Constant values can sometimes be cheaper than immutable values:
 
 ---
 
-### Use external function modifier
+### Modifiers
 
 - For all the public functions, the input parameters are copied to memory automatically, and it costs gas.
 - If your function is only called externally, then you should explicitly mark it as external.
 - External function’s parameters are not copied into memory but are read from `calldata` directly.
-- By the way, calling internal functions is cheaper.
+- internal and private are both cheaper than public and external when called from inside the contract in some cases.
+
+
 
 ---
 
