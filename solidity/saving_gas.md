@@ -117,6 +117,18 @@ uint256 world; //good, cheap
 
 ---
 
+<br>
+
+## negative gas costs
+
+- Deleting a contract (SELFDESTRUCT) is worth a refund of 24,000 gas.
+- Changing a storage address from a nonzero value to zero (SSTORE[x] = 0) is worth a refund of 15,000 gas.
+
+<br>
+
+
+---
+
 ## resources and tools
 
 <br>
