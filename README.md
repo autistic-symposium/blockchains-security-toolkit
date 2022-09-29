@@ -54,7 +54,7 @@
 
 <br>
 
-* [EVM opcodes](https://github.com/crytic/evm-opcodes)
+
 * [Ethereum book](https://github.com/ethereumbook/ethereumbook)
 * [Ethereum's Whitepaper](https://ethereum.org/en/whitepaper/)
 * [Understanding rollups](https://barnabe.substack.com/p/understanding-rollup-economics-from?s=r)
