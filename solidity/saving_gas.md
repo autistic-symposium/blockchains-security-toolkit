@@ -4,6 +4,8 @@
 <br>
 
 #### Gas is the cost to for on-chain computation and storage.
+#### Examples: addition costs 3 gas, Keccak-256 costs 30 gas + 6 gas for each 256 bits of data being hashed, sending a transaction costs 21,000 gas.
+
 
 <br>
 
