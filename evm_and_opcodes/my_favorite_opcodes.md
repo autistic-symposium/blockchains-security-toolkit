@@ -13,8 +13,7 @@
 | 45          | GASLIIT   | 2       | get gas limit |
 | 48          | BASEFEE   | 2       | get base fee in wei |
 | 5A          | GAS   | 2       | remaining gas after instructions |
-| F0          | CREATE2   | 32000       | create a new contract - the new account's code is set to the return data resulting from executing the inialisation code - the destination address is calculated as `initialisation_code = memory[offset:offset+size]` and
-`address = keccak256(0xff + sender_address + salt + keccak256(initialisation_code))[12:]` |
+| F0          | CREATE2   | 32000       | create a new contract - the new account's code is set to the return data resulting from executing the inialisation code - the destination address is calculated as `initialisation_code = memory[offset:offset+size]` and `address = keccak256(0xff + sender_address + salt + keccak256(initialisation_code))[12:]` |
 | F1          | CALL   | 100       | create a new sub context and execute the code of the given account, then resumes the current one |
 | F2          | CALLCODE   | 100       | create a new sub context and execute the code of the given account - the storage remains the same |
 | F4          | ✨DELEGATECALL✨   | 100       | create a new sub context and execute the code of the given account - the storage, the current sender, and the current value remain the same |
