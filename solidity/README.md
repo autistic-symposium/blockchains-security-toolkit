@@ -11,5 +11,6 @@
 * [bolierplates](boilerplates/)
 * [solidity tl;dr](solidity_tldr.md)
 * [l2s and rollups](l2_and_rollups/)
+* [tokens standard](token_standards/)
 * [tests](tests/)
 * [saving gas](saving_gas.md)
