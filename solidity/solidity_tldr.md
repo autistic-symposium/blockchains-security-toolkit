@@ -1,5 +1,5 @@
-# 🍿 master solidity
 
+## solidity tl;dr
 
 <br>
 
