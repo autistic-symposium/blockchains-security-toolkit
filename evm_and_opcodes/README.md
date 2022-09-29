@@ -13,6 +13,16 @@
 
 ---
 
+### in this repo
+
+<br>
+
+* [my favorite opcodes](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/evm_and_opcodes)
+
+<br>
+
+---
+
 ### resources
 
 <br>
