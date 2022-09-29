@@ -3,8 +3,9 @@
 
 <br>
 
+#### Gas is the cost to for on-chain computation and storage.
 
-
+<br>
 
 ---
 
