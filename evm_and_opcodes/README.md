@@ -28,6 +28,7 @@
 <br>
 
 * [opcodes for the evm](https://ethereum.org/en/developers/docs/evm/opcodes/)
+* [opcodes and instruction reference](https://github.com/crytic/evm-opcodes)
 
 
 <br>
