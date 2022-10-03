@@ -2,6 +2,7 @@
 
 <br>
 
+---
 ## 🍩 sections in this repo
 
 <br>
@@ -45,12 +46,7 @@
 <br>
 
 ---
-
-## 🍧 resources
-
-<br>
-
-### the evm 
+## 🍧 the evm 
 
 <br>
 
@@ -63,8 +59,7 @@
 <br>
 
 ---
-
-### solidity 
+## 🍉 solidity 
 
 <br>
 
@@ -85,8 +80,7 @@
 <br>
 
 ----
-
-### 🥧 all things security 
+## 🌶 all things security 
 
 <br>
 
@@ -143,8 +137,7 @@
 
 
 ---
-
-### 🥞 contracts of interest
+## 🥞 contracts of interest
 
 <br>
 
@@ -160,8 +153,7 @@
 <br>
 
 ---
-
-### 🧁 practice your hacking skils
+## 🧁 practice your hacking skils
 
 <br>
 
@@ -186,8 +178,7 @@
 <br>
 
 ---
-
-### 🍰 hacking tools
+## 🍰 hacking tools
 
 <br>
 
@@ -223,6 +214,7 @@
 * [Semgrep rules for smart contracts](https://github.com/Raz0r/semgrep-smart-contracts)
 * [ETH detective](https://www.ethtective.com/address/)
 * [EVM-trace, Ethereum Virtual Machine transaction tracing tool](https://github.com/ApeWorX/evm-trace)
+* [Sleuthing Hashed Function Signature and Event Signature on Ethereum](https://dune.com/agaperste/event-and-function-signature-sleuthing?)
 
 
 
