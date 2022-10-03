@@ -238,3 +238,13 @@
 * [Cryptocurrency historical data snapshot](https://coinmarketcap.com/historical/)
 * [Explain shell](https://explainshell.com/)
 * [revoke.cash](https://revoke.cash/)
+
+<br>
+
+---
+## 🍒 some notes && terminology
+
+<br>
+
+* functions for external calls in contracts refers to functions being called by an initiating address.
+* event is what's being emitted inside a function.
