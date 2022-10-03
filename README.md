@@ -179,7 +179,7 @@
 * [Cipher Shastra](https://ciphershastra.com/)
 * [Vyper Punk](https://github.com/SupremacyTeam/VyperPunk)
 * [more blockchain ctfs](https://github.com/minaminao/ctf-blockchain/)
-* [List of blockchain CTF competitions](https://github.com/blockthreat/blocksec-ctfs)
+* [list of blockchain CTF competitions](https://github.com/blockthreat/blocksec-ctfs)
 
 
 
@@ -205,7 +205,7 @@
 * [Wallet impersonator](https://www.impersonator.xyz/)
 * [Ethereum nodes](https://ethereumnodes.com/)
 * [ERC20 verifier](https://erc20-verifier.openzeppelin.com/) and [the source code](https://github.com/tinchoabbate/slither-scripts/tree/master/erc20)
-* [public ETH RPC gatweay](https://eth.public-rpc.com/)
+* [ANKR RPC gateway](ankr.com/rpc/)
 
 
 <br>
