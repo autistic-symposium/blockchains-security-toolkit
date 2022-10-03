@@ -245,3 +245,4 @@
 * [Tornado Cash Pool Anonymity Auditor](https://tutela.xyz/)
 * [Cryptocurrency historical data snapshot](https://coinmarketcap.com/historical/)
 * [Explain shell](https://explainshell.com/)
+* [revoke.cash](https://revoke.cash/)
