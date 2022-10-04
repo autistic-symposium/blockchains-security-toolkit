@@ -32,6 +32,7 @@
 
 * [static analysis](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/static_analysis_tools)
 * [dynamic analysis](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/dynamic_analysis_tools)
+* [hardhat](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/hardhat)
 * [foundry](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/foundry)
 * [tenderly](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/tenderly)
 * [oracles](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/oracles)
