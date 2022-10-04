@@ -11,8 +11,9 @@
 
 <br>
 
-* [solidity](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/master_solidity)
 * [the evm and opcodes](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/evm_and_opcodes)
+* [solidity](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/master_solidity)
+
 
 
 <br>
@@ -20,6 +21,8 @@
 #### other chains
 
 * [solana](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/solana)
+* [cosmos](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/cosmos)
+* [rust](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/rust)
 
 <br>
 
