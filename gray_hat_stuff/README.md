@@ -31,3 +31,13 @@
 
 * [PT.io](https://www.privacytools.io/)
 * [Needl](https://github.com/eth0izzle/Needl)
+
+<br>
+
+---
+
+### articles
+
+<br>
+
+* [How to fund an undoxxed Ethereum wallet off-chain](https://mirror.xyz/xanny.eth/SGxwfVQ75831z5vFaS1LrlatUJEhxBvZ2cyTvAdCD0k)
