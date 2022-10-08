@@ -45,7 +45,7 @@
 
 * [vulnerabilities](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/vulnerabilities)
 * [cryptography](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/cryptography)
-* [decentralized_storage](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/decentralized_storage)
+* [decentralized storage](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/decentralized_storage)
 * [top immunefi vulns](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/top_immunefi_vulnerabilities)
 * [gray hacker stuff](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/gray_hat_stuff)
 
