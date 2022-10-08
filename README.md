@@ -43,7 +43,7 @@
 
 <br>
 
-* [vulnerabilities](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/vulnerabilities)
+* [smart contract vulnerabilities](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/smart_contract_vulnerabilities)
 * [cryptography](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/cryptography)
 * [decentralized storage](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/decentralized_storage)
 * [top immunefi vulns](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/top_immunefi_vulnerabilities)
