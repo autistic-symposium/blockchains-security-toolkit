@@ -1,22 +1,15 @@
-# L2s and Rollups
+# 🍑 l2s && rollups
 
 <br>
 
-* The current Ethereum version has low transaction throughput and high latency in processing. This means that transactions are both slow and prohibitively expensive, due to high demand, relative to what the network can take at any given time.
+* the current Ethereum version has low transaction throughput and high latency in processing. This means that transactions are both slow and prohibitively expensive, due to high demand, relative to what the network can take at any given time.
+* there are two types of scaling solutions:
 
-<br>
-
-## Scaling solutions
-
-There are two types of scaling solutions:
-
-- On-chain scaling refers to any direct modification made to a blockchain, like data sharding and execution sharding in the incoming Ethereum 2.0.
-- Off-chain scaling refers to any innovation outside of a blockchain, i.e., the execution of transaction bytecode happens externally instead of on Ethereum. hese solutions are called L2, because layer 2 works above layer 1 (Ethereum) to optimize and speed up processing. Arbitrum and Optimism Ethereum are two well-known examples of L2 scaling solutions.
-
-Currently, we can distinguish between two leading L2 solutions as:
-
-- Zero-Knowledge (zk) rollups, and
-- Optimistic rollups
+     - On-chain scaling refers to any direct modification made to a blockchain, like data sharding and execution sharding in the incoming Ethereum 2.0.
+     - Off-chain scaling refers to any innovation outside of a blockchain, i.e., the execution of transaction bytecode happens externally instead of on Ethereum. hese solutions are called L2, because layer 2 works above layer 1 (Ethereum) to optimize and speed up processing. Arbitrum and Optimism Ethereum are two well-known examples of L2 scaling solutions.
+* there are two leading L2 solutions:
+     - Zero-Knowledge (zk) rollups, and
+     - Optimistic rollups
 
 <br>
 
@@ -60,11 +53,3 @@ Currently, we can distinguish between two leading L2 solutions as:
 
 <br>
 
-----
-
-
-## Optimism
-
-* Optimism is a scaling solution based on the concept of optimistic rollups.
-* It depends on "fault proofs" which is a way of detecting whether a transaction being verified is incorrect.
-* Optimism handles fault-proofs using OVM 2.0.
