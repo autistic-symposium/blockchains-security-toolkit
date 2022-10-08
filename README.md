@@ -11,7 +11,7 @@
 
 <br>
 
-* [the evm and opcodes](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/evm_and_opcodes)
+* [the evm && opcodes](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/evm_and_opcodes)
 * [solidity](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/master_solidity)
 
 
@@ -46,6 +46,7 @@
 * [smart contract vulnerabilities](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/smart_contract_vulnerabilities)
 * [cryptography](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/cryptography)
 * [decentralized storage](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/decentralized_storage)
+* [l2s && rollups](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/l2_and_rollups)
 * [top immunefi vulns](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/top_immunefi_vulnerabilities)
 * [gray hacker stuff](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/gray_hat_stuff)
 
