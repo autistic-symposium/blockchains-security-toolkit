@@ -40,6 +40,16 @@
 
 ---
 
+### funding
+
+<br>
+
+* [funding](https://changenow.io/)
+
+<br>
+
+---
+
 ### articles
 
 <br>
