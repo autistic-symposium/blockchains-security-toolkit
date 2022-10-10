@@ -1,10 +1,25 @@
 ## ⛽️ Tricks to save gas
 
 
+
 <br>
 
 #### Gas is the cost to for on-chain computation and storage.
 #### Examples: addition costs 3 gas, Keccak-256 costs 30 gas + 6 gas for each 256 bits of data being hashed, sending a transaction costs 21,000 gas.
+
+
+<br>
+
+-----
+
+### gas reports
+
+<br>
+
+* [hardhat](https://medium.com/@thelasthash/%EF%B8%8F-gas-optimization-with-hardhat-1e553eaea311)
+* [foundry](https://book.getfoundry.sh/forge/gas-reports)
+
+
 
 
 <br>
