@@ -44,7 +44,7 @@
 <br>
 
 * [vulnerabilities](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/vulnerabilities)
-* [smart contract vulnerabilities](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/smart_contract_vulnerabilities)
+* [attack reviews](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/attack_reviews)
 * [cryptography](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/cryptography)
 * [decentralized storage](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/decentralized_storage)
 * [l2s && rollups](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/l2_and_rollups)
