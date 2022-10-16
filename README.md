@@ -3,7 +3,7 @@
 <br>
 
 ---
-## 🍩 sections in this repo
+## 🍩 dirs in this repo
 
 <br>
 
@@ -250,10 +250,3 @@
 
 <br>
 
----
-## 🍒 some notes && terminology
-
-<br>
-
-* functions for external calls in contracts refers to functions being called by an initiating address.
-* event is what's being emitted inside a function.
