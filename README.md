@@ -83,7 +83,7 @@
 * [Solidity cheatsheet and best practices](https://github.com/manojpramesh/solidity-cheatsheet)
 * [Vscode plugin: Solidity visual](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor)
 * [Vscode plugin: Solidity support](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity)
-
+* [Dapp university](https://www.youtube.com/c/DappUniversity)
 
 <br>
 
