@@ -134,6 +134,7 @@
 
 <br>
 
+* [everything flashloans](https://github.com/MEV-WAIFU-LABS/mev_toolkit/tree/main/flashloans)
 * [defi hacks](https://cryptosec.info/defi-hacks/)
 * [Rug Doc Wiki](https://wiki.rugdoc.io/)
 * [246 Findings From our Smart Contract Audits](https://blog.trailofbits.com/2019/08/08/246-findings-from-our-smart-contract-audits-an-executive-summary/)
