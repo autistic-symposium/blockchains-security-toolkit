@@ -11,8 +11,8 @@
 
 <br>
 
-* [the evm && opcodes](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/evm_and_opcodes)
-* [solidity](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/master_solidity)
+* [the evm && opcodes](evm_and_opcodes)
+* [solidity](master_solidity)
 
 
 
@@ -20,9 +20,9 @@
 
 #### other chains
 
-* [solana](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/solana)
-* [cosmos](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/cosmos)
-* [rust](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/rust)
+* [solana](solana)
+* [cosmos](cosmos)
+* [rust](rust)
 
 <br>
 
@@ -30,12 +30,12 @@
 
 <br>
 
-* [static analysis](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/static_analysis_tools)
-* [dynamic analysis](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/dynamic_analysis_tools)
-* [hardhat](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/hardhat)
-* [foundry](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/foundry)
-* [tenderly](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/tenderly)
-* [oracles](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/oracles)
+* [static analysis](static_analysis_tools)
+* [dynamic analysis](dynamic_analysis_tools)
+* [hardhat](hardhat)
+* [foundry](foundry)
+* [tenderly](tenderly)
+* [oracles](oracles)
 
 <br>
 
@@ -43,12 +43,12 @@
 
 <br>
 
-* [vulnerabilities](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/vulnerabilities)
-* [attack reviews](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/attack_reviews)
-* [cryptography](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/cryptography)
-* [decentralized storage](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/decentralized_storage)
-* [l2s && rollups](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/l2_and_rollups)
-* [gray hacker stuff](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/gray_hat_stuff)
+* [vulnerabilities](vulnerabilities)
+* [attack reviews](attack_reviews)
+* [cryptography](cryptography)
+* [decentralized storage](decentralized_storage)
+* [l2s && rollups](l2_and_rollups)
+* [gray hacker stuff](gray_hat_stuff)
 
 
 <br>
