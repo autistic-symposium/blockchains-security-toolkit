@@ -2,6 +2,15 @@
 
 <br>
 
+### assert vs. require
+
+* Assert() should only be used to test for internal errors, and to check invariants.
+* Require() should be used to ensure valid conditions are met that cannot be detected until execution time.
+* You may optionally provide a message for require, but not for assert.
+
+
+<br>
+
 ### unit testing
 
 <br>
