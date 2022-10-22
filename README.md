@@ -228,6 +228,7 @@ by dr. mia von Steinkirch, formely known as bt3gl (RIP). here is a [proof-of-og]
 * [ETH detective](https://www.ethtective.com/address/)
 * [EVM-trace, Ethereum Virtual Machine transaction tracing tool](https://github.com/ApeWorX/evm-trace)
 * [Sleuthing Hashed Function Signature and Event Signature on Ethereum](https://dune.com/agaperste/event-and-function-signature-sleuthing?)
+* [Pratical overview of classic system security](http://www.astro.sunysb.edu/steinkirch/books/security_hw.txt)
 
 
 
