@@ -248,6 +248,7 @@
 * [Explain shell](https://explainshell.com/)
 * [revoke.cash](https://revoke.cash/)
 * [breadcrumbs](https://www.breadcrumbs.app/home)
+* [cookbook.dev](https://www.cookbook.dev/)
 
 <br>
 
