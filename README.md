@@ -1,8 +1,7 @@
-# 🧱⛓☠️ 1337 blockchain hacker toolkit
+# 🧱⛓☠️ blockchain hacker toolkit 
 
-<br>
 
-by dr. mia von Steinkirch, formely known as bt3gl (RIP). here is a [proof-of-og](http://www.astro.sunysb.edu/steinkirch/books/security_hw.txt).
+
 
 <br>
 
