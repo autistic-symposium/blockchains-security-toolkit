@@ -228,6 +228,7 @@
 * [EVM-trace, Ethereum Virtual Machine transaction tracing tool](https://github.com/ApeWorX/evm-trace)
 * [Sleuthing Hashed Function Signature and Event Signature on Ethereum](https://dune.com/agaperste/event-and-function-signature-sleuthing?)
 * [Pratical overview of classic system security](http://www.astro.sunysb.edu/steinkirch/books/security_hw.txt)
+* [socketscan, track bridge transactions](https://socketscan.io/)
 
 
 
