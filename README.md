@@ -1,6 +1,8 @@
 # 🧱⛓☠️ blockchain hacker toolkit 
 
+<br>
 
+#### the resources in this repository are from my own research, which is intermittent and boundless. therefore, no guarantees, no promises; use it at your own risk.
 
 
 <br>
