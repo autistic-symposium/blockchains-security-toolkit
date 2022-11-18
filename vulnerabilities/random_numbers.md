@@ -19,3 +19,4 @@
 
 * [ethereum randomness ](https://eth2book.info/altair/part2/building_blocks/randomness)
 * [randao github](https://github.com/randao/randao)
+* [exploring the randao game in pos ethereum](https://ethereum.github.io/beaconrunner/notebooks/randao/randao.html)
