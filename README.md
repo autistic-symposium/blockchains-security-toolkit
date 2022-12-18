@@ -258,6 +258,7 @@
 * [breadcrumbs](https://www.breadcrumbs.app/home)
 * [cookbook.dev](https://www.cookbook.dev/)
 * [detect metamorphic contracts](https://metamorphic.a16zcrypto.com/)
+* [rpcs list by privacy](https://chainlist.org/)
 
 <br>
 
