@@ -204,6 +204,7 @@
 
 * [Ethstats](https://ethstats.net/)
 * [EthTx Transaction Decoder](https://ethtx.info/)
+* [Solidity decomposer](https://ethervm.io/decompile)
 * [Eth converter](https://eth-converter.com/)
 * [Contracts diff checker](https://etherscan.io/contractdiffchecker)
 * [Mutation Testing for Ethereum Smart Contracts](https://github.com/JoranHonig/vertigo)
@@ -212,6 +213,7 @@
 * [ERC20 verifier](https://erc20-verifier.openzeppelin.com/) and [the source code](https://github.com/tinchoabbate/slither-scripts/tree/master/erc20)
 * [ANKR RPC gateway](ankr.com/rpc/)
 * [burp's web3 decoder](https://github.com/nccgroup/web3-decoder)
+
 
 
 <br>
