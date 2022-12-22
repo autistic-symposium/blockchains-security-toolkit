@@ -17,7 +17,7 @@
 
 <br>
 
-* [my favorite opcodes](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/evm_and_opcodes)
+* [my favorite opcodes](evm_and_opcodes/my_favorite_opcodes.md)
 
 <br>
 
@@ -29,6 +29,7 @@
 
 * [opcodes for the evm](https://ethereum.org/en/developers/docs/evm/opcodes/)
 * [opcodes and instruction reference](https://github.com/crytic/evm-opcodes)
+* [EVM Contract Construction](https://blog.smlxl.io/evm-contract-construction-93c98cc4ca96)
 
 
 <br>
