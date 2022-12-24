@@ -67,7 +67,7 @@
 * [Ethereum book](https://github.com/ethereumbook/ethereumbook)
 * [Ethereum's Whitepaper](https://ethereum.org/en/whitepaper/)
 * [Understanding rollups](https://barnabe.substack.com/p/understanding-rollup-economics-from?s=r)
-* [Speeding up the EVM by Flashbots](https://writings.flashbots.net/research/speeding-up-evm-part-1/)
+
 
 <br>
 
@@ -105,7 +105,7 @@
 * [Pitfalls and best practices](https://github.com/x676f64/secureum-mind_map/blob/master/4.%20Pitfalls%20and%20Best%20Practices%20101.md)
 * [Hacking the Blockchain by Immunefi](https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b)
 * [Uniswap Oracle Attack Simulator by Euler](https://blog.euler.finance/uniswap-oracle-attack-simulator-42d18adf65af)
-* [Thinking About Smart Contract Security by Vitalik](https://blog.ethereum.org/2016/06/19/thinking-smart-contract-securi`ty/)
+* [Thinking About Smart Contract Security by Vitalik](https://blog.ethereum.org/2016/06/19/thinking-smart-contract-security/)
 * [Advanced Pitfalls and best practices](https://github.com/x676f64/secureum-mind_map/blob/master/5.%20Pitfalls%20and%20Best%20Practices%20201.md)
 * [The Evolution of Smart Contract Security](https://www.youtube.com/watch?v=fOkQuNzVn_Q)
 * [Audit findings](https://github.com/x676f64/secureum-mind_map/blob/master/7.%20Audit%20Findings%20101.md)
@@ -182,7 +182,6 @@
 * [DeFiHack.xyz](https://www.defihack.xyz/)
 * [w3b s3c](https://www.w3bs3c.com/tools)
 * [Crypto blacklist](https://www.cryptoblacklist.io/en/ethereum-blacklist/)
-* [Cipher Shastra](https://ciphershastra.com/)
 * [Vyper Punk](https://github.com/SupremacyTeam/VyperPunk)
 * [more blockchain ctfs](https://github.com/minaminao/ctf-blockchain/)
 * [list of blockchain CTF competitions](https://github.com/blockthreat/blocksec-ctfs)
@@ -208,7 +207,6 @@
 * [Eth converter](https://eth-converter.com/)
 * [Contracts diff checker](https://etherscan.io/contractdiffchecker)
 * [Mutation Testing for Ethereum Smart Contracts](https://github.com/JoranHonig/vertigo)
-* [Wallet impersonator](https://www.impersonator.xyz/)
 * [Ethereum nodes](https://ethereumnodes.com/)
 * [ERC20 verifier](https://erc20-verifier.openzeppelin.com/) and [the source code](https://github.com/tinchoabbate/slither-scripts/tree/master/erc20)
 * [ANKR RPC gateway](ankr.com/rpc/)
