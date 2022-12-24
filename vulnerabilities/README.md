@@ -12,6 +12,7 @@
 * [pentesting](pentesting.md)
 * [randomness in ethereum](random_numbers.md)
 * [security tips](security_tips.md)
+* [address poisoning](address_poisoning)
 
 
 <br>
@@ -21,4 +22,4 @@
 ### resources
 
 
-* [list of defi hacks & exploits](https://github.com/SunWeb3Sec/DeFiHackLabs/#list-of-defi-hacks--exploits)
+* [defi hacks & exploits](https://github.com/SunWeb3Sec/DeFiHackLabs/#list-of-defi-hacks--exploits)
