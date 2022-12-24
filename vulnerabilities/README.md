@@ -1,37 +1,24 @@
-## 🥬 smart contract vulnerabilities
+## smart contract vulnerabilities
 
 <br>
 
-
-#### vulns
-
-<br>
+### in this dir
 
 
-* [code injection via `delegatecall`](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/tree/main/vulnerabilities/delegatecall)
-* [reentrancy](reentrancy-notes.md)
+* [reentrancy](reentrancy_attacks)
 * [arithmetic bugs](arithmetic-bugs-notes.md)
+* [code injection via `delegatecall`](delegatecall)
 * [ddos attacks](ddos-notes.md)
-
-<br>
-
-
-
-#### notes
-
-<br>
-
-
-* [a guide for pentesting](pentesting.md)
-* [randomness in ethereum](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/blob/main/smart_contracts_vulnerabilities/random_numbers.md)
-* [security tips](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/blob/main/smart_contracts_vulnerabilities/security_tips.md)
+* [pentesting](pentesting.md)
+* [randomness in ethereum](random_numbers.md)
+* [security tips](security_tips.md)
 
 
 <br>
 
+----
 
-#### resources
+### resources
 
-<br>
 
 * [list of defi hacks & exploits](https://github.com/SunWeb3Sec/DeFiHackLabs/#list-of-defi-hacks--exploits)
