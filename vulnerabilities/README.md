@@ -22,4 +22,4 @@
 ### resources
 
 
-* [list of defi hacks & exploits](https://github.com/SunWeb3Sec/DeFiHackLabs/#list-of-defi-hacks--exploits)
+* [defi hacks & exploits](https://github.com/SunWeb3Sec/DeFiHackLabs/#list-of-defi-hacks--exploits)
