@@ -1,10 +1,14 @@
-## 🌶 notes on proxies
+## proxies
+
+### tl; dr 
 
 <br>
 
-*There exists a special variant of a message call, named delegatecall which is identical to a message call apart from the fact that the code at the target address is executed in the context (i.e. at the address) of the calling contract and msg.sender and msg.value do not change their values. This means that a contract can dynamically load code from a different address at runtime. Storage, current address and balance still refer to the calling contract, only the code is taken from the called address.*
+* here exists a special variant of a message call, named delegatecall which is identical to a message call apart from the fact that the code at the target address is executed in the context (i.e. at the address) of the calling contract and msg.sender and msg.value do not change their values. This means that a contract can dynamically load code from a different address at runtime. Storage, current address and balance still refer to the calling contract, only the code is taken from the called address.
 
 <br>
+
+---
 
 ### proxy patterns
 
@@ -21,18 +25,46 @@
 
 <br>
 
-### diamond pattern
+#### transparent proxy pattern (TPP)
+
+1. upgrade logic is stored in proxy itself.
+2. gas-inefficient
 
 <br>
+
+#### universal upgradable proxy standard (UUPS)
+
+1. upgrade logic is stored in logic itself
+2. gas-efficient
+
+
+<br>
+
+#### diamond pattern
+
 
 * diamond patterns differ from proxy patterns because the diamond proxy contract can delegates function calls to more than one logic contract.
 * when a user makes a function call, the proxy contract checks the mapping to find the facet responsible for executing that function. Then it invokes delegatecall (using the fallback function) and redirects the call to the appropriate logic contract.
 
 <br>
 
-### resources
+---
+
+### unitialized proxy bug
+
+
+
+* Developers might leave proxies unitialized - this can be a problem when it leads to changes such as granting ownership to the caller
+* the owners of the contract can upgrade the implementation contract
+* this bug can lead to the self-destruction of the implementation contract (proxy contract is bricked)
 
 <br>
+
+---
+
+### resources
+
+
 
 * [proxy patterns](https://mirror.xyz/0xB38709B8198d147cc9Ff9C133838a044d78B064B/M7oTptQkBGXxox-tk9VJjL66E1V8BUF0GF79MMK4YG0)
 * [how diamond upgrades work](https://dev.to/mudgen/how-diamond-upgrades-work-417j)

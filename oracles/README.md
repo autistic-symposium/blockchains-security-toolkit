@@ -1,10 +1,11 @@
-## 🍣 oracles
+## oracles
 
+### tl; dr
 
 
 <br>
 
-
+---
 ### resources 
 
-* [mev toolkit on oracles](https://github.com/MEV-WAIFU-LABS/mev_toolkit/tree/main/oracles)
+* [mev toolkit on oracles](https://github.com/go-outside-labs/mev-toolkit/tree/main/oracles)
