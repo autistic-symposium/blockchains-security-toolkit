@@ -1,4 +1,4 @@
-## 🍖 dynamic analysis tools
+## dynamic analysis tools
 
 <br>
 

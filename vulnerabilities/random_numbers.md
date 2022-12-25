@@ -1,4 +1,4 @@
-## 🌶 randomization
+## random number vulns
 
 <br>
 
@@ -10,11 +10,14 @@
 * `DIFFICULTY` is renamed to `PREVRANDAO`, and return the output of the randomness beacon provided by the beacon chain. It's stronger than `BLOCKHASH` but still biasable.
 
 
+
 <br>
+
+----
 
 ### resources
 
-<br>
+
 
 
 * [ethereum randomness ](https://eth2book.info/altair/part2/building_blocks/randomness)

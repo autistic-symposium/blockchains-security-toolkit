@@ -1,4 +1,4 @@
-## Notes on DDoS attacks on the context of blockchains
+## DDoS attacks on the context of blockchains
 
 <br>
 

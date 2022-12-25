@@ -1,10 +1,15 @@
-## 🍫 Hardhat stuff
+## hardhat stuff
+
+
+### tl; dr
 
 <br>
 
 
-### Tutorials
+---
 
-<br>
+### tutorials
 
-* [Hardhat for Aurora](https://mirror.xyz/lilithsecurity.eth/7bxj980BWftX6oiwPu0OoTUyxLs7PhOVtSS0jVuXc04)
+
+
+* [hardhat for aurora](https://mirror.xyz/lilithsecurity.eth/7bxj980BWftX6oiwPu0OoTUyxLs7PhOVtSS0jVuXc04)

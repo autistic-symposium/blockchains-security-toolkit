@@ -1,6 +1,6 @@
-# 🍑 l2s && rollups
+##  l2s && rollups
 
-<br>
+### tl; dr
 
 * the current Ethereum version has low transaction throughput and high latency in processing. This means that transactions are both slow and prohibitively expensive, due to high demand, relative to what the network can take at any given time.
 * there are two types of scaling solutions:
@@ -13,14 +13,17 @@
 
 <br>
 
-### zk-rollups
+---
+
+#### zk-rollups
 
 * zk-rollups bundle together many off-chain transactions into a single verifiable batch using zk-SNARK. 
 * zk-SNARK is an extremely efficient, zero-knowledge proof that allows one party to prove it possesses certain information without revealing that information. These validity proofs are then posted to the Ethereum blockchain.
 
 <br>
 
-### optimistic rollups
+---
+#### optimistic rollups
 
 * Instead of executing and storing all the data on Ethereum, where transactions are only processed at a premium, we only store a summary.
 * All the actual computation and storage of contracts and data is done on L2.
@@ -30,14 +33,17 @@
 
 <br>
 
-### state channel
+---
+#### state channel
 
 * setting up channels between parties to form an off-chain network within which many transactions take place
 * final state is updated on ethereum
 
 <br>
 
-### side cain
+---
+
+#### side cain
 
 * conduct txs in a separate blockchain with its own consensus mechanism
 * assets and data are transferred with ethereum through a smart contract that locks assets and recreates representative opens in the side chain
@@ -45,7 +51,8 @@
 
 <br>
 
-### plasma chain
+---
+#### plasma chain
 
 * similar to side chains, functioning as separate chains with their own consensus mechanisms
 * roots of each block are published to ethereum, which makes the system more secure but limits its ability for complex operations
@@ -53,3 +60,7 @@
 
 <br>
 
+
+---
+
+### resources

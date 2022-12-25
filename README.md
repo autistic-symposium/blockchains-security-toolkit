@@ -8,73 +8,35 @@
 <br>
 
 ---
-## 🍩 dirs in this repo
-
-<br>
-
-#### ethereum
-
-<br>
-
-* [the evm && opcodes](evm_and_opcodes)
-* [solidity](master_solidity)
+### 🍩 dirs in this repo
 
 
-
-<br>
-
-#### other chains
-
-* [solana](solana)
+* [attack_reviews](attack_reviews)
 * [cosmos](cosmos)
-* [rust](rust)
-
-<br>
-
-#### tools
-
-<br>
-
-* [static analysis](static_analysis_tools)
-* [dynamic analysis](dynamic_analysis_tools)
-* [hardhat](hardhat)
-* [foundry](foundry)
-* [tenderly](tenderly)
-* [oracles](oracles)
-
-<br>
-
-#### general
-
-<br>
-
-* [vulnerabilities](vulnerabilities)
-* [attack reviews](attack_reviews)
 * [cryptography](cryptography)
 * [decentralized storage](decentralized_storage)
+* [dynamic analysis](dynamic_analysis)
+* [the evm && opcodes](evm_and_opcodes)
+* [gray hacker tools](gray_hat_tools)
+* [hardhat](hardhat)
 * [l2s && rollups](l2_and_rollups)
-* [gray hacker stuff](gray_hat_stuff)
+* [oracles](oracles)
+* [solana](solana)
+* [static analysis](static_analysis)
+* [vulnerabilities](vulnerabilities)
+
+
+
+
 
 
 <br>
+
 
 ---
-## 🍧 the evm 
-
-<br>
+## 🍗 solidity 
 
 
-* [Ethereum book](https://github.com/ethereumbook/ethereumbook)
-* [Ethereum's Whitepaper](https://ethereum.org/en/whitepaper/)
-* [Understanding rollups](https://barnabe.substack.com/p/understanding-rollup-economics-from?s=r)
-
-
-<br>
-
----
-## 🍉 solidity 
-
-<br>
 
 * [Solidity docs](https://docs.soliditylang.org/en/v0.8.12/)
 * [OpenZeppelin docs](https://docs.openzeppelin.com/)
@@ -89,13 +51,16 @@
 * [Vscode plugin: Solidity visual](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor)
 * [Vscode plugin: Solidity support](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity)
 * [Dapp university](https://www.youtube.com/c/DappUniversity)
+* [foundry website](https://getfoundry.sh/)
+* [foundry book](https://book.getfoundry.sh/forge/differential-ffi-testing)
+* [foundry repo](https://github.com/foundry-rs/foundry)
+* [ethernaut x foundry](https://github.com/ciaranmcveigh5/ethernaut-x-foundry)
 
 <br>
 
 ----
-## 🌶 all things security 
+### 🍔 all things security 
 
-<br>
 
 * [SWC Registry](https://swcregistry.io/)
 * [Blockchain Security Database](https://consensys.github.io/blockchainSecurityDB/)
@@ -133,27 +98,12 @@
 * [Bug Bounty 101](https://www.youtube.com/watch?v=S-Z2iwbT1Fg)
 
 
-<br>
-
-#### documented defi and blockchains exploits
-
-<br>
-
-* [everything flashloans](https://github.com/MEV-WAIFU-LABS/mev_toolkit/tree/main/flashloans)
-* [defi hacks](https://cryptosec.info/defi-hacks/)
-* [Rug Doc Wiki](https://wiki.rugdoc.io/)
-* [246 Findings From our Smart Contract Audits](https://blog.trailofbits.com/2019/08/08/246-findings-from-our-smart-contract-audits-an-executive-summary/)
-* [rug pull checker tools](https://graph.org/A-Short-List-of-the-Rug-Checker-Tools-04-09)
-
-
-<br>
-
 
 
 ---
-## 🥞 contracts of interest
+### 🥞 contracts of interest
 
-<br>
+
 
 * [Uniswap v3](https://github.com/Uniswap/v3-core/tree/main/contracts)
 * [Chainlink](https://github.com/smartcontractkit/chainlink/tree/develop/contracts/src/v0.4)
@@ -167,9 +117,7 @@
 <br>
 
 ---
-## 🧁 practice your hacking skils
-
-<br>
+### 🍟 practice your hacking skils
 
 * [Capture the Ether](https://capturetheether.com/)
 * [the ethernaut](https://ethernaut.openzeppelin.com/)
@@ -191,14 +139,8 @@
 <br>
 
 ---
-## 🍰 hacking tools
 
-<br>
-
-
-
-#### ethereum general
-
+### 🥓 relevant hacking tools
 
 
 * [Ethstats](https://ethstats.net/)
@@ -211,13 +153,6 @@
 * [ERC20 verifier](https://erc20-verifier.openzeppelin.com/) and [the source code](https://github.com/tinchoabbate/slither-scripts/tree/master/erc20)
 * [ANKR RPC gateway](ankr.com/rpc/)
 * [burp's web3 decoder](https://github.com/nccgroup/web3-decoder)
-
-
-
-<br>
-
-#### somehow relevant
-
 * [Oyente, analysis Tool for Smart Contracts](https://github.com/enzymefinance/oyente)
 * [Trail of Bits' Ethereum Security Toolbox](https://github.com/trailofbits/eth-security-toolbox)
 * [Securify, Security scanner for Ethereum smart contracts](https://github.com/eth-sri/securify2)
@@ -231,14 +166,7 @@
 * [EVM-trace, Ethereum Virtual Machine transaction tracing tool](https://github.com/ApeWorX/evm-trace)
 * [Sleuthing Hashed Function Signature and Event Signature on Ethereum](https://dune.com/agaperste/event-and-function-signature-sleuthing?)
 * [Pratical overview of classic system security](http://www.astro.sunysb.edu/steinkirch/books/security_hw.txt)
-* [socketscan, track bridge transactions](https://socketscan.io/)
-
-
-
-<br>
-
-#### other useful tools
-
+* [socketscan, track bridge transactions](https://socketscan.io/)s
 * [Solhint, a linter for Solidity](https://github.com/protofire/solhint)
 * [Solidity coverage tool](https://github.com/sc-forks/solidity-coverage)
 * [JSON formatter](https://jsonformatter.curiousconcept.com/)
@@ -259,6 +187,6 @@
 * [cookbook.dev](https://www.cookbook.dev/)
 * [detect metamorphic contracts](https://metamorphic.a16zcrypto.com/)
 * [rpcs list by privacy](https://chainlist.org/)
+* [tenderly](https://dashboard.tenderly.co/)
 
-<br>
 

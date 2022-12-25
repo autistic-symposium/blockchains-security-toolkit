@@ -1,3 +1,0 @@
-## Cream hack analysis
-
-<br>

@@ -1,6 +1,5 @@
-## 🍱 the evm
+## the evm
 
-<br>
 
 ### tl;dr
 
@@ -30,13 +29,8 @@
 * [opcodes for the evm](https://ethereum.org/en/developers/docs/evm/opcodes/)
 * [opcodes and instruction reference](https://github.com/crytic/evm-opcodes)
 * [EVM Contract Construction](https://blog.smlxl.io/evm-contract-construction-93c98cc4ca96)
-
-
-<br>
-
-##### disassemblers
-
-<br>
-
 * [ethersplay](https://github.com/crytic/ethersplay)
 * [IDA EVM](https://github.com/crytic/ida-evm)
+* [Ethereum book](https://github.com/ethereumbook/ethereumbook)
+* [Ethereum's Whitepaper](https://ethereum.org/en/whitepaper/)
+* [Understanding rollups](https://barnabe.substack.com/p/understanding-rollup-economics-from?s=r)

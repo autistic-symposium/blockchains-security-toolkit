@@ -1,4 +1,4 @@
-## 🧋 static analysis tools
+## static analysis tools
 
 <br>
 

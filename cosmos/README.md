@@ -1,18 +1,18 @@
-## 🧄 Cosmos and IBC
+## cosmos and IBC
+
+### tl; dr
+
+* IBC is an interoperability protocol for communicating arbitrary data between arbitrary state machines.
+
+* The protocol consists of two distinct layers: the transport layer (TAO) which provides the necessary infrastructure to establish secure connections and authenticate data packets between chains, and the application layer, which defines exactly how these data packets should be packaged and interpreted by the sending and receiving chains.
+
+* The IBC application layer can be used to build a wide range of cross-chain applications, including but not limited to token transfers, interchain accounts (delegate calls between two chains), non-fungible token transfers and oracle data feeds.
 
 <br>
 
-*IBC is an interoperability protocol for communicating arbitrary data between arbitrary state machines.*
+---
+### resources
 
-*The protocol consists of two distinct layers: the transport layer (TAO) which provides the necessary infrastructure to establish secure connections and authenticate data packets between chains, and the application layer, which defines exactly how these data packets should be packaged and interpreted by the sending and receiving chains.*
-
-*The IBC application layer can be used to build a wide range of cross-chain applications, including but not limited to token transfers, interchain accounts (delegate calls between two chains), non-fungible token transfers and oracle data feeds.*
-
-<br>
-
-### building
-
-<br>
 
 * [cosmos developer portal](https://tutorials.cosmos.network/)
 * [cosmos sdk](https://github.com/cosmos/cosmos-sdk/)
@@ -23,13 +23,6 @@
 * [ignite](https://github.com/ignite/cli)
 * [gravity bridge](https://github.com/cosmos/gravity-bridge)
 * [ethermint](https://github.com/evmos/ethermint)
-
-<br>
-
-### block explorers and data
-
-<br>
-
 * [atom scan](https://atomscan.com/)
 * [big dipper](https://bigdipper.live/)
 * [iob scan](https://ibc.iobscan.io/home)
