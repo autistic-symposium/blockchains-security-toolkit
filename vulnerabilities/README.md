@@ -35,3 +35,4 @@
 
 * [secureum-mind-map](https://github.com/x676f64/secureum-mind_map/blob/master/3.%20Solidity%20201.md)
 * [defi hacks & exploits](https://github.com/SunWeb3Sec/DeFiHackLabs/#list-of-defi-hacks--exploits)
+* [ethereum smart contract security best practices](https://consensys.github.io/smart-contract-best-practices/)
