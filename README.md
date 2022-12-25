@@ -4,6 +4,8 @@
 
 #### the resources in this repository are from my own research, which is intermittent and boundless. therefore, no guarantees, no promises; use it at your own risk.
 
+#### if you would like to learn blockchain development, check out [web3-rust](https://github.com/go-outside-labs/web3-rust), [web3-python](https://github.com/go-outside-labs/web3-python), [web3-golang](https://github.com/go-outside-labs/web3-golang), and [web3-solitidy](https://github.com/go-outside-labs/web3-solidity).
+
 
 <br>
 
@@ -27,38 +29,10 @@
 
 
 
-
-
-
-<br>
-
-
----
-## 🍗 solidity 
-
-
-
-* [Solidity docs](https://docs.soliditylang.org/en/v0.8.12/)
-* [OpenZeppelin docs](https://docs.openzeppelin.com/)
-* [Solidity by example](https://solidity-by-example.org/)
-* [Solidity style guide](https://docs.soliditylang.org/en/latest/style-guide.html)
-* [Solidity 201 primitives](https://github.com/x676f64/secureum-mind_map/blob/master/3.%20Solidity%20201.md)
-* [Solidity Python course](https://www.youtube.com/watch?v=M576WGiDBdQ)
-* [Solidity by Securitum bookcamp](https://www.youtube.com/watch?v=5eLqFac5Tkg)
-* [Smart contract programmer videos](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA/videos)
-* [Ethereum smart contract best practices](https://consensys.github.io/smart-contract-best-practices/)
-* [Solidity cheatsheet and best practices](https://github.com/manojpramesh/solidity-cheatsheet)
-* [Vscode plugin: Solidity visual](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor)
-* [Vscode plugin: Solidity support](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity)
-* [Dapp university](https://www.youtube.com/c/DappUniversity)
-* [foundry website](https://getfoundry.sh/)
-* [foundry book](https://book.getfoundry.sh/forge/differential-ffi-testing)
-* [foundry repo](https://github.com/foundry-rs/foundry)
-* [ethernaut x foundry](https://github.com/ciaranmcveigh5/ethernaut-x-foundry)
-
 <br>
 
 ----
+
 ### 🍔 all things security 
 
 
@@ -98,25 +72,10 @@
 * [Bug Bounty 101](https://www.youtube.com/watch?v=S-Z2iwbT1Fg)
 
 
-
-
----
-### 🥞 contracts of interest
-
-
-
-* [Uniswap v3](https://github.com/Uniswap/v3-core/tree/main/contracts)
-* [Chainlink](https://github.com/smartcontractkit/chainlink/tree/develop/contracts/src/v0.4)
-* [Fei protocol](https://github.com/fei-protocol/fei-protocol-core/tree/master/contracts)
-* [OpenZeppelin's ERC-20](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol)
-* [OpenZeppelin's ERC-721](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/ERC721.sol)
-* [Immunefi notes on the ERC token standard](https://medium.com/immunefi/how-erc-standards-work-part-1-c9795803f459)
-* [Security contracts from OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/security)
-
-
 <br>
 
 ---
+
 ### 🍟 practice your hacking skils
 
 * [Capture the Ether](https://capturetheether.com/)
@@ -134,6 +93,24 @@
 * [more blockchain ctfs](https://github.com/minaminao/ctf-blockchain/)
 * [list of blockchain CTF competitions](https://github.com/blockthreat/blocksec-ctfs)
 
+
+
+<br>
+
+
+---
+
+### 🥞 contracts of interest
+
+
+
+* [Uniswap v3](https://github.com/Uniswap/v3-core/tree/main/contracts)
+* [Chainlink](https://github.com/smartcontractkit/chainlink/tree/develop/contracts/src/v0.4)
+* [Fei protocol](https://github.com/fei-protocol/fei-protocol-core/tree/master/contracts)
+* [OpenZeppelin's ERC-20](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol)
+* [OpenZeppelin's ERC-721](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/ERC721.sol)
+* [Immunefi notes on the ERC token standard](https://medium.com/immunefi/how-erc-standards-work-part-1-c9795803f459)
+* [Security contracts from OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/security)
 
 
 <br>
