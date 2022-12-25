@@ -1,4 +1,4 @@
-## 🍍 [circom](https://docs.circom.io/)
+## [circom](https://docs.circom.io/)
 
 <br>
 

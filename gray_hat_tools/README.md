@@ -1,4 +1,4 @@
-## 🥯 gray hacker tools
+## gray hacker tools
 
 <br>
 
