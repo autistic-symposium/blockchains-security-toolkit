@@ -82,6 +82,7 @@
 * [List of known attack vectors](https://blog.sigmaprime.io/solidity-security.html)
 * [Awesome Ethereum security](https://github.com/crytic/awesome-ethereum-security)
 * [Bug Bounty 101](https://www.youtube.com/watch?v=S-Z2iwbT1Fg)
+* [DeFi hacks analysis and root causes](https://wooded-meter-1d8.notion.site/0e85e02c5ed34df3855ea9f3ca40f53b?v=22e5e2c506ef4caeb40b4f78e23517ee)
 
 
 <br>
