@@ -178,5 +178,7 @@
 * [detect metamorphic contracts](https://metamorphic.a16zcrypto.com/)
 * [rpcs list by privacy](https://chainlist.org/)
 * [tenderly](https://dashboard.tenderly.co/)
+* [token security detector](https://gopluslabs.io/token-security/)
+
 
 
