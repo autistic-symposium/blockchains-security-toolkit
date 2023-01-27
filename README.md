@@ -180,6 +180,7 @@
 * [tenderly](https://dashboard.tenderly.co/)
 * [token security detector](https://gopluslabs.io/token-security/)
 * [smart contract explorers](https://sovs.notion.site/Block-Smart-Contract-Explorers-8dcaed059c844e3b8f9b67b8eb90174a)
+* [visual / graph chain explorer](https://www.watchers.pro/)
 
 
 
