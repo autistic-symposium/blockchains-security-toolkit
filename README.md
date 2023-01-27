@@ -179,7 +179,15 @@
 * [rpcs list by privacy](https://chainlist.org/)
 * [tenderly](https://dashboard.tenderly.co/)
 * [token security detector](https://gopluslabs.io/token-security/)
-* smart contract explorers](https://sovs.notion.site/Block-Smart-Contract-Explorers-8dcaed059c844e3b8f9b67b8eb90174a)
+* [smart contract explorers](https://sovs.notion.site/Block-Smart-Contract-Explorers-8dcaed059c844e3b8f9b67b8eb90174a)
+
+##### decompilers
+
+
+* [oko](https://oko.palkeo.com/)
+* [jeb](https://www.pnfsoftware.com/jeb/evm)
+* [dedaub](https://library.dedaub.com/)
+* [ethervm.io](https://ethervm.io/decompile)
 
 ##### visual / graph explorers
 
