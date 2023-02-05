@@ -16,7 +16,7 @@
 
 #### the resources in this repository are from my own research, which is intermittent and boundless. therefore, no guarantees, no promises; use it at your own risk.
 
-#### if you would like to learn blockchain development, check out [web3-rust](https://github.com/go-outside-labs/web3-rust), [web3-python](https://github.com/go-outside-labs/web3-python), [web3-golang](https://github.com/go-outside-labs/web3-golang), and [web3-solitidy](https://github.com/go-outside-labs/web3-solidity).
+#### if you would like to learn blockchain development, check out [web3-toolkit-rs](https://github.com/go-outside-labs/web3-toolkit-rs), [web3-toolkit-py](https://github.com/go-outside-labs/web3-toolkit-py), [web3-toolkit-go](https://github.com/go-outside-labs/web3-toolkit-go), and [web3-toolkit-sol](https://github.com/go-outside-labs/web3-toolkit-sol).
 
 
 <br>
