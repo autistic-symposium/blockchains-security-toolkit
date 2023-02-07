@@ -31,7 +31,7 @@
 
 ---
 
-## 🍩 dirs in this repo
+## ☠️✨ dirs in this repo
 
 <br>
 
@@ -56,7 +56,7 @@
 
 ---
 
-## 🥓 hacking tools
+## ☠️✨ hacking tools
 
 <br>
 
@@ -131,7 +131,7 @@
 
 ----
 
-## 🍔 security resources
+## ☠️✨ security resources
 
 <br>
 
@@ -176,7 +176,7 @@
 
 ---
 
-## 🍟 practicing your hacking skils
+## ☠️✨ practicing your hacking skils
 
 <br>
 
