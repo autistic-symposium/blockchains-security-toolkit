@@ -19,9 +19,7 @@
 
 #### 👾 this repository contains resources for blockchain white hackers or gray hackers.
 
-#### 👾 more mev-related resources, check out [mev-toolkit](https://github.com/go-outside-labs/mev-toolkit)
-
-#### 👾 to learn blockchain development, check out [web3-toolkit-rs](https://github.com/go-outside-labs/web3-toolkit-rs), [web3-toolkit-py](https://github.com/go-outside-labs/web3-toolkit-py), [web3-toolkit-go](https://github.com/go-outside-labs/web3-toolkit-go), and [web3-toolkit-sol](https://github.com/go-outside-labs/web3-toolkit-sol).
+#### 👾 for mev-related resources, check out [mev-toolkit](https://github.com/go-outside-labs/mev-toolkit). to learn blockchain development, check out [web3-toolkit-rs](https://github.com/go-outside-labs/web3-toolkit-rs), [web3-toolkit-py](https://github.com/go-outside-labs/web3-toolkit-py), [web3-toolkit-go](https://github.com/go-outside-labs/web3-toolkit-go), and [web3-toolkit-sol](https://github.com/go-outside-labs/web3-toolkit-sol).
 
 #### ⚠️ the resources in this repository are from my own ongoing boundless research. therefore, no guarantees, no promises; use it at your own risk.
 
