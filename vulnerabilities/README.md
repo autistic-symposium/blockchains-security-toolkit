@@ -23,6 +23,7 @@
 * [randomness in ethereum](random_numbers.md)
 * [code injection via `delegatecall`](delegatecall)
 * [ddos attacks](ddos.md)
+* [nonce reuse](nonce)
 
 
 
