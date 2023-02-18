@@ -46,6 +46,7 @@
 * [solana](solana)
 * [static analysis](static_analysis)
 * [vulnerabilities](vulnerabilities)
+* [bug hunting](bug_hunting)
 
 
 
