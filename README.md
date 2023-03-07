@@ -12,14 +12,13 @@
 <br>
 
 
----
 ## tl; dr
 
 <br>
 
-##### 👾 this repository contains resources for blockchain white hackers or gray hackers. for mev-related resources, check out [mev-toolkit](https://github.com/go-outside-labs/mev-toolkit). 
+##### 👾 this repository contains resources for blockchain gray hackers. check out [mev-toolkit](https://github.com/go-outside-labs/mev-toolkit) as well. 
 
-##### ⚠️ the resources in this repository are from my own (free time / out-of-curiosity) research. use it at your own risk.
+##### ⚠️ these are from my own (free time / out-of-curiosity) research. use it at your own risk.
 
 
 
