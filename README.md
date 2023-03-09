@@ -58,7 +58,6 @@
 
 * [Ethstats](https://ethstats.net/)
 * [EthTx Transaction Decoder](https://ethtx.info/)
-* [Solidity decomposer](https://ethervm.io/decompile)
 * [Eth converter](https://eth-converter.com/)
 * [Contracts diff checker](https://etherscan.io/contractdiffchecker)
 * [Mutation Testing for Ethereum Smart Contracts](https://github.com/JoranHonig/vertigo)
