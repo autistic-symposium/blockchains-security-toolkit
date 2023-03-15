@@ -31,6 +31,7 @@
 ### I. learn the basics
 
 * [oracles](basic_knowledge/oracles)
+* [honeypots](basic_knowledge/honeypots)
 * [cryptography](basic_knowledge/cryptography)
 * [l2s && rollups](basic_knowledge/l2_and_rollups)
 * [the evm && opcodes](basic_knowledge/evm_and_opcodes)
