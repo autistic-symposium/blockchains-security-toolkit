@@ -21,3 +21,4 @@
 * [analyzing an mev bot’s arbitrage on ethereum](https://medium.com/@etdu/analyzing-an-mev-bots-arbitrage-on-ethereum-c6980cfd347)
 * [246 findings from our smart Ccntract audits](https://blog.trailofbits.com/2019/08/08/246-findings-from-our-smart-contract-audits-an-executive-summary/)
 * [probabilistic liquidity attacks, by t. chitra et al](https://drive.google.com/file/d/1kCsmC52Jbhj8bpQMMo3-Z92P6L5E5hxl/view)
+* [investigating defi frauds and money laundering](https://arxiv.org/pdf/2303.00810.pdf)

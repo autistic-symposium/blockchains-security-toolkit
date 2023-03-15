@@ -1,9 +1,13 @@
+<<<<<<< HEAD
 # ⛓🍕 blockchain hacking
+=======
+# ⛓🍕 blockchain hacking for the honorable
+>>>>>>> d8ca1b8615d74bdcbf8ffa195274badf57597f85
 
 <br>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/1130416/210285206-1097fed8-568b-4514-97a2-832924686bc4.png" width="50%" align="center" style="padding:1px;border:1px solid black;"/>
+<img src="https://user-images.githubusercontent.com/1130416/210285206-1097fed8-568b-4514-97a2-832924686bc4.png" width="40%" align="center" style="padding:1px;border:1px solid black;"/>
  </p>
 
 
@@ -12,16 +16,14 @@
 <br>
 
 
----
-## tl; dr
+### tl; dr:
 
-<br>
 
-#### 👾 this repository contains resources for blockchain white hackers or gray hackers.
+##### 👾 this repository is a catalog from my own (free time / out-of-curiosity) research and development. i open-source it to fight some lousy actors' agenda to conceal the space. there are a lot of just people working on making ensure stays fair. if you are passionate about decentralization and self-sovereignty, don't be intimidated by the toxicity in the space: do your homework and join us (we need you).
 
-#### 👾 for mev-related resources, check out [mev-toolkit](https://github.com/go-outside-labs/mev-toolkit). to learn blockchain development, check out [web3-toolkit-rs](https://github.com/go-outside-labs/web3-toolkit-rs), [web3-toolkit-py](https://github.com/go-outside-labs/web3-toolkit-py), [web3-toolkit-go](https://github.com/go-outside-labs/web3-toolkit-go), and [web3-toolkit-sol](https://github.com/go-outside-labs/web3-toolkit-sol).
 
-#### ⚠️ the resources in this repository are from my own ongoing boundless research. therefore, no guarantees, no promises; use it at your own risk.
+##### 🏴‍☠️ if you are interested on mev-related resources, check out our [mev-toolkit](https://github.com/go-outside-labs/mev-toolkit). as everything in life, the *most valuable commodity is information*. 
+
 
 
 
@@ -29,38 +31,50 @@
 
 ---
 
-## ☠️✨ dirs in this repo
+### I. learn the basics
 
-<br>
-
-* [cosmos](cosmos)
-* [attack reviews](attack_reviews)
-* [cryptography](cryptography)
-* [decentralized storage](decentralized_storage)
-* [dynamic analysis](dynamic_analysis)
-* [the evm && opcodes](evm_and_opcodes)
-* [gray hacker tools](gray_hat_tools)
-* [hardhat](hardhat)
-* [l2s && rollups](l2_and_rollups)
 * [oracles](oracles)
-* [solana](solana)
-* [static analysis](static_analysis)
+* [cryptography](cryptography)
+* [l2s && rollups](l2_and_rollups)
+* [the evm && opcodes](evm_and_opcodes)
+* [decentralized storage](decentralized_storage)
 * [vulnerabilities](vulnerabilities)
 
 
+<br>
+
+### II. learn the tools
+
+
+* [environments](environments)
+* [identity hacking](gray_hat_tools)
+* [static analysis](static_analysis)
+* [dynamic analysis](dynamic_analysis)
+* [hacking by chains](hacking_by_chains)
+
+
+
+
+<br>
+
+### III. learn from history
+
+* [bug hunting](bug_hunting)
+* [attack reviews](attack_reviews)
+
+
 
 <br>
 
 
 ---
 
-## ☠️✨ hacking tools
+### hacking tools
 
 <br>
 
 * [Ethstats](https://ethstats.net/)
 * [EthTx Transaction Decoder](https://ethtx.info/)
-* [Solidity decomposer](https://ethervm.io/decompile)
 * [Eth converter](https://eth-converter.com/)
 * [Contracts diff checker](https://etherscan.io/contractdiffchecker)
 * [Mutation Testing for Ethereum Smart Contracts](https://github.com/JoranHonig/vertigo)
@@ -129,7 +143,7 @@
 
 ----
 
-## ☠️✨ security resources
+### security resources
 
 <br>
 
@@ -175,7 +189,7 @@
 
 ---
 
-## ☠️✨ practicing your hacking skils
+### practicing your hacking skils
 
 <br>
 
