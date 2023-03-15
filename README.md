@@ -35,17 +35,20 @@
 * [the evm && opcodes](evm_and_opcodes)
 * [decentralized storage](decentralized_storage)
 * [vulnerabilities](vulnerabilities)
-* [solana](solana)
-* [cosmos](cosmos)
+
 
 <br>
 
 ### II. learn the tools
 
-* [hardhat](hardhat)
-* [gray hacker tools](gray_hat_tools)
+
+* [identity hacking](gray_hat_tools)
 * [static analysis](static_analysis)
 * [dynamic analysis](dynamic_analysis)
+* [solana](solana)
+* [cosmos](cosmos)
+* [hardhat](hardhat)
+
 
 
 <br>
