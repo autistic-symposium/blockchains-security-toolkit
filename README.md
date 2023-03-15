@@ -1,9 +1,9 @@
-# 🧱⛓☠️ blockchain hacking
+# ⛓🍕 blockchain hacking for the honorable
 
 <br>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/1130416/210285206-1097fed8-568b-4514-97a2-832924686bc4.png" width="50%" align="center" style="padding:1px;border:1px solid black;"/>
+<img src="https://user-images.githubusercontent.com/1130416/210285206-1097fed8-568b-4514-97a2-832924686bc4.png" width="40%" align="center" style="padding:1px;border:1px solid black;"/>
  </p>
 
 
@@ -12,13 +12,14 @@
 <br>
 
 
-## tl; dr
+### tl; dr:
 
-<br>
 
-##### 👾 this repository contains resources for blockchain gray hackers. check out [mev-toolkit](https://github.com/go-outside-labs/mev-toolkit) as well. 
+##### 👾 this repository is a catalog from my own (free time / out-of-curiosity) research and development. i open-source it to fight some lousy actors' agenda to conceal the space. there are a lot of just people working on making ensure stays fair. if you are passionate about decentralization and self-sovereignty, don't be intimidated by the toxicity in the space: do your homework and join us (we need you).
 
-##### ⚠️ these are from my own (free time / out-of-curiosity) research. use it at your own risk.
+
+##### 🏴‍☠️ if you are interested on mev-related resources, check out our [mev-toolkit](https://github.com/go-outside-labs/mev-toolkit). as everything in life, the *most valuable commodity is information*. 
+
 
 
 
@@ -26,24 +27,33 @@
 
 ---
 
-### dirs in this repo
+### I. learn the basics
+
+* [oracles](oracles)
+* [cryptography](cryptography)
+* [l2s && rollups](l2_and_rollups)
+* [the evm && opcodes](evm_and_opcodes)
+* [decentralized storage](decentralized_storage)
+* [vulnerabilities](vulnerabilities)
+* [solana](solana)
+* [cosmos](cosmos)
 
 <br>
 
-* [cosmos](cosmos)
-* [attack reviews](attack_reviews)
-* [cryptography](cryptography)
-* [decentralized storage](decentralized_storage)
-* [dynamic analysis](dynamic_analysis)
-* [the evm && opcodes](evm_and_opcodes)
-* [gray hacker tools](gray_hat_tools)
+### II. learn the tools
+
 * [hardhat](hardhat)
-* [l2s && rollups](l2_and_rollups)
-* [oracles](oracles)
-* [solana](solana)
+* [gray hacker tools](gray_hat_tools)
 * [static analysis](static_analysis)
-* [vulnerabilities](vulnerabilities)
+* [dynamic analysis](dynamic_analysis)
+
+
+<br>
+
+### III. learn from history
+
 * [bug hunting](bug_hunting)
+* [attack reviews](attack_reviews)
 
 
 
