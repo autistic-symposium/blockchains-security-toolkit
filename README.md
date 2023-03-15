@@ -16,8 +16,7 @@
 ### tl; dr:
 
 
-##### 👾 this repository is a catalog from my own (free time / out-of-curiosity) research and development. i open-source it to fight some lousy actors' agenda to conceal the space. there are a lot of just people working on making ensure stays fair. if you are passionate about decentralization and self-sovereignty, don't be intimidated by the toxicity in the space: do your homework and join us (we need you).
-
+##### 👾 this repository is a catalog from my own research and development. i open-source it to combat some lousy actors' agenda to conceal the space. there are a lot of people working on ensuring the technology stays fair. if you are passionate about self-sovereignty and love solving complex problems, don't be intimidated by the toxicity in the space: do your homework and join us (we need you).
 
 ##### 🏴‍☠️ if you are interested on mev-related resources, check out our [mev-toolkit](https://github.com/go-outside-labs/mev-toolkit). as everything in life, the *most valuable commodity is information*. 
 
