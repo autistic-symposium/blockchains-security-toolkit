@@ -59,8 +59,10 @@
 
 
 * [bug hunting](advanced_expert/bug_hunting)
-* [vulnerabilities](advanced_expert/vulnerabilities)
 * [attack reviews](advanced_expert/attack_reviews)
+* [vulnerabilities](advanced_expert/vulnerabilities)
+* [foundry exploits](foundry_exploits)
+
 
 
 
