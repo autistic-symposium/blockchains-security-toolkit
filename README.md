@@ -30,12 +30,12 @@
 
 ### I. learn the basics
 
-* [oracles](oracles)
-* [cryptography](cryptography)
-* [l2s && rollups](l2_and_rollups)
-* [the evm && opcodes](evm_and_opcodes)
-* [decentralized storage](decentralized_storage)
-* [vulnerabilities](vulnerabilities)
+* [oracles](basic_knowledge/oracles)
+* [cryptography](basic_knowledge/cryptography)
+* [l2s && rollups](basic_knowledge/l2_and_rollups)
+* [the evm && opcodes](basic_knowledge/evm_and_opcodes)
+* [decentralized storage](basic_knowledge/decentralized_storage)
+* [vulnerabilities](basic_knowledge/vulnerabilities)
 
 
 <br>
