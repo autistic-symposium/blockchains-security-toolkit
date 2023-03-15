@@ -36,7 +36,6 @@
 * [l2s && rollups](basic_knowledge/l2_and_rollups)
 * [the evm && opcodes](basic_knowledge/evm_and_opcodes)
 * [decentralized storage](basic_knowledge/decentralized_storage)
-* [vulnerabilities](basic_knowledge/vulnerabilities)
 
 
 <br>
@@ -58,7 +57,9 @@
 
 ### III. learn from history
 
+
 * [bug hunting](advanced_expert/bug_hunting)
+* [vulnerabilities](advanced_expert/vulnerabilities)
 * [attack reviews](advanced_expert/attack_reviews)
 
 
