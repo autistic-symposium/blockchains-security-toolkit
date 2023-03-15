@@ -43,8 +43,12 @@
 ### II. learn the tools
 
 
-* [environments](hacking_tools/environments)
+
+
 * [hacking tools](hacking_tools)
+* [decompilers](decompilers)
+* [environments](hacking_tools/environments)
+* [visual explorers](visual_explorers)
 * [identity hacking](hacking_tools/identity_tools)
 * [static analysis](hacking_tools/static_analysis)
 * [dynamic analysis](hacking_tools/dynamic_analysis)
