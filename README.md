@@ -44,6 +44,7 @@
 
 
 * [environments](environments)
+* [hacking tools](hacking_tools)
 * [identity hacking](gray_hat_tools)
 * [static analysis](static_analysis)
 * [dynamic analysis](dynamic_analysis)
@@ -63,27 +64,6 @@
 
 <br>
 
-
--
-##### decompilers
-
-
-* [oko](https://oko.palkeo.com/)
-* [jeb](https://www.pnfsoftware.com/jeb/evm)
-* [dedaub](https://library.dedaub.com/)
-* [ethervm.io](https://ethervm.io/decompile)
-
-##### visual / graph explorers
-
-
-* [data viz for evm-based blockchains](https://github.com/monoand6/web3cat)
-* [watchers.pro](https://www.watchers.pro/)
-* [crypto flows](https://cryptoflows.info/)
-* [spider foots](https://www.spiderfoot.net/)
-* [cosmographs](https://cosmograph.app/)
-* [ice vision](https://www.icevision.xyz/landing)
-
-<br>
 
 
 ----
