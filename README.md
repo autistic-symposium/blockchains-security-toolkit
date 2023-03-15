@@ -46,9 +46,9 @@
 
 
 * [hacking tools](hacking_tools)
-* [decompilers](decompilers)
+* [decompilers](hacking_tools/decompilers)
 * [environments](hacking_tools/environments)
-* [visual explorers](visual_explorers)
+* [visual explorers](hacking_tools/visual_explorers)
 * [identity hacking](hacking_tools/identity_tools)
 * [static analysis](hacking_tools/static_analysis)
 * [dynamic analysis](hacking_tools/dynamic_analysis)
