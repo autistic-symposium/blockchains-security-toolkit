@@ -30,6 +30,7 @@
 
 ### I. learn the basics
 
+* [readings](basic_knowledge)
 * [oracles](basic_knowledge/oracles)
 * [honeypots](basic_knowledge/honeypots)
 * [cryptography](basic_knowledge/cryptography)
