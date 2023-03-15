@@ -42,12 +42,12 @@
 ### II. learn the tools
 
 
+* [environments](environments)
 * [identity hacking](gray_hat_tools)
 * [static analysis](static_analysis)
 * [dynamic analysis](dynamic_analysis)
-* [solana](solana)
-* [cosmos](cosmos)
-* [hardhat](hardhat)
+* [hacking by chains](hacking_by_chains)
+
 
 
 
