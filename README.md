@@ -45,7 +45,7 @@
 
 * [environments](hacking_tools/environments)
 * [hacking tools](hacking_tools)
-* [identity hacking](hacking_tools/gray_hat_tools)
+* [identity hacking](hacking_tools/identity_tools)
 * [static analysis](hacking_tools/static_analysis)
 * [dynamic analysis](hacking_tools/dynamic_analysis)
 * [hacking by chains](hacking_tools/hacking_by_chains)
