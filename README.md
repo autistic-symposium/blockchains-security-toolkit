@@ -49,7 +49,7 @@
 * [static analysis](hacking_tools/static_analysis)
 * [dynamic analysis](hacking_tools/dynamic_analysis)
 * [hacking by chains](hacking_tools/hacking_by_chains)
-* [more resources](hacking_tools/more_resources)
+
 
 
 
