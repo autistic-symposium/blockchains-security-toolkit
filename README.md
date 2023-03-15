@@ -1,4 +1,4 @@
-# 🧱⛓☠️ blockchain hacking
+# ⛓🍕 blockchain hacking
 
 <br>
 
