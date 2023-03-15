@@ -63,7 +63,7 @@
 * [vulnerabilities](advanced_expert/vulnerabilities)
 * [foundry exploits](advanced_expert/foundry_exploits)
 * [practice your skills](advanced_expert/practice_your_skills/)
-* [contract of interest](advanced_expert/contract_of_interest)
+* [contracts of interest](advanced_expert/contracts_of_interest)
 
 
 
