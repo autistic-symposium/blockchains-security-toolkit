@@ -44,12 +44,12 @@
 ### II. learn the tools
 
 
-* [environments](environments)
+* [environments](hacking_tools/environments)
 * [hacking tools](hacking_tools)
-* [identity hacking](gray_hat_tools)
-* [static analysis](static_analysis)
-* [dynamic analysis](dynamic_analysis)
-* [hacking by chains](hacking_by_chains)
+* [identity hacking](hacking_tools/gray_hat_tools)
+* [static analysis](hacking_tools/static_analysis)
+* [dynamic analysis](hacking_tools/dynamic_analysis)
+* [hacking by chains](hacking_tools/hacking_by_chains)
 
 
 
@@ -58,8 +58,8 @@
 
 ### III. learn from history
 
-* [bug hunting](bug_hunting)
-* [attack reviews](attack_reviews)
+* [bug hunting](advanced_expert/bug_hunting)
+* [attack reviews](advanced_expert/attack_reviews)
 
 
 
