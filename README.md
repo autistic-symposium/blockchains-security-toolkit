@@ -49,13 +49,13 @@
 * [static analysis](hacking_tools/static_analysis)
 * [dynamic analysis](hacking_tools/dynamic_analysis)
 * [hacking by chains](hacking_tools/hacking_by_chains)
-
+* [more resources](hacking_tools/more_resources)
 
 
 
 <br>
 
-### III. learn from history
+### III. learn from the past
 
 
 * [bug hunting](advanced_expert/bug_hunting)
@@ -63,7 +63,7 @@
 * [vulnerabilities](advanced_expert/vulnerabilities)
 * [foundry exploits](advanced_expert/foundry_exploits)
 * [contract of interest](advanced_expert/contract_of_interest)
-* [more security resources](advanced_expert/more_resources)
+
 
 
 
