@@ -16,3 +16,4 @@
 * [Vyper Punk](https://github.com/SupremacyTeam/VyperPunk)
 * [more blockchain ctfs](https://github.com/minaminao/ctf-blockchain/)
 * [list of blockchain CTF competitions](https://github.com/blockthreat/blocksec-ctfs)
+* [ghosts of epochs past](https://www.ghostsofepochspast.xyz/)
