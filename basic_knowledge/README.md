@@ -1,4 +1,24 @@
-### security resources
+## blockchain hacking: basic knowledge
+
+<br>
+
+### in this dir
+
+<br>
+
+* [oracles](oracles)
+* [honeypots](honeypots)
+* [cryptography](cryptography)
+* [evm and opcodes](evm_and_opcodes)
+* [l2s and rollups](l2_and_rollups)
+* [decentralized storage](decentralized_storage)
+
+
+<br>
+
+----
+
+### more resources
 
 <br>
 
