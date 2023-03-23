@@ -69,3 +69,4 @@
 * [smart contract explorers](https://sovs.notion.site/Block-Smart-Contract-Explorers-8dcaed059c844e3b8f9b67b8eb90174a)
 * [cookbook.dev: find any contract](https://www.cookbook.dev/)
 * [gpt4 contract reader](https://www.contractreader.io/)
+* [officercia's on-chain investigation tools list](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)
