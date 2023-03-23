@@ -70,3 +70,4 @@
 * [cookbook.dev: find any contract](https://www.cookbook.dev/)
 * [gpt4 contract reader](https://www.contractreader.io/)
 * [officercia's on-chain investigation tools list](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)
+* [de.fi](https://de.fi/)
