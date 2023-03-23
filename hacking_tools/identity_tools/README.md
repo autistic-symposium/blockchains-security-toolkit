@@ -67,3 +67,4 @@
 <br>
 
 * [How to fund an undoxxed Ethereum wallet off-chain](https://mirror.xyz/xanny.eth/SGxwfVQ75831z5vFaS1LrlatUJEhxBvZ2cyTvAdCD0k)
+* [Using Open-Source Investigative Tools to Investigate DeFi Frauds and Money Laundering, by Trozze et al](https://arxiv.org/pdf/2303.00810.pdf)
