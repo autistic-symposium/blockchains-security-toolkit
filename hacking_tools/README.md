@@ -2,6 +2,25 @@
 
 <br>
 
+### in this dir
+
+<br>
+
+* [decompilers](decompilers)
+* [environments](environments)
+* [identity tools](identity_tools)
+* [static analysis](static_analysis)
+* [visual explorers](visual_explorers)
+* [dynamic analysis](dynamic_analysis)
+* [hacking by chains](hacking_by_chains)
+
+
+<br>
+
+### external resources
+
+<br>
+
 * [Ethstats](https://ethstats.net/)
 * [EthTx Transaction Decoder](https://ethtx.info/)
 * [Eth converter](https://eth-converter.com/)
