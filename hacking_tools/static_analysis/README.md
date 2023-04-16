@@ -21,6 +21,6 @@
 
 <br>
 
-### [solhunt[(https://github.com/iFrostizz/solhunt#readme)
+### [solhunt](https://github.com/iFrostizz/solhunt#readme)
 
 * solidity analyzer in rust
