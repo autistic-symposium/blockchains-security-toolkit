@@ -19,5 +19,8 @@
 * EVM bytecode static analysis framework designed to work on deployed smart contracts.
 
 
+<br>
 
+### [solhunt[(https://github.com/iFrostizz/solhunt#readme)
 
+* solidity analyzer in rust
