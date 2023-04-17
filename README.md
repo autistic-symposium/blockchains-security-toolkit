@@ -10,9 +10,6 @@
 
 
 
-<br>
-
-
 ### tl; dr:
 
 
@@ -69,6 +66,13 @@
 * [practice your skills](advanced_expert/practice_your_skills/)
 * [contracts of interest](advanced_expert/contracts_of_interest)
 
+
+
+<br>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/1130416/232543281-970b8282-64b9-4171-8c0e-d32dce54ee31.png" width="40%" align="center" style="padding:1px;border:1px solid black;" />
+</p>
 
 
 
