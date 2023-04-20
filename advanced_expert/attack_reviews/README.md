@@ -22,3 +22,4 @@
 * [246 findings from our smart Ccntract audits](https://blog.trailofbits.com/2019/08/08/246-findings-from-our-smart-contract-audits-an-executive-summary/)
 * [probabilistic liquidity attacks, by t. chitra et al](https://drive.google.com/file/d/1kCsmC52Jbhj8bpQMMo3-Z92P6L5E5hxl/view)
 * [investigating defi frauds and money laundering](https://arxiv.org/pdf/2303.00810.pdf)
+* [eclipse attacks on bitcoin's p2p networks, by heilman et al](https://eprint.iacr.org/2015/263.pdf)
