@@ -1,10 +1,14 @@
 ## proxies
 
+<br>
+
 ### tl; dr 
 
 <br>
 
-* here exists a special variant of a message call, named delegatecall which is identical to a message call apart from the fact that the code at the target address is executed in the context (i.e. at the address) of the calling contract and msg.sender and msg.value do not change their values. This means that a contract can dynamically load code from a different address at runtime. Storage, current address and balance still refer to the calling contract, only the code is taken from the called address.
+* there exists a special variant of a message call, named delegatecall which is identical to a message call apart from the fact that the code at the target address is executed in the context (i.e. at the address) of the calling contract and `msg.sender` and `msg.value` do not change their values. 
+* this means that a contract can dynamically load code from a different address at runtime. 
+* storage, current address and balance still refer to the calling contract, only the code is taken from the called address.
 
 <br>
 
@@ -30,7 +34,7 @@
 1. upgrade logic is stored in proxy itself.
 2. gas-inefficient
 
-<br>
+
 
 #### universal upgradable proxy standard (UUPS)
 
@@ -38,9 +42,9 @@
 2. gas-efficient
 
 
-<br>
 
 #### diamond pattern
+
 
 
 * diamond patterns differ from proxy patterns because the diamond proxy contract can delegates function calls to more than one logic contract.
@@ -52,6 +56,7 @@
 
 ### unitialized proxy bug
 
+<br>
 
 
 * Developers might leave proxies unitialized - this can be a problem when it leads to changes such as granting ownership to the caller
@@ -64,11 +69,11 @@
 
 ### resources
 
-
+<br>
 
 * [proxy patterns](https://mirror.xyz/0xB38709B8198d147cc9Ff9C133838a044d78B064B/M7oTptQkBGXxox-tk9VJjL66E1V8BUF0GF79MMK4YG0)
 * [how diamond upgrades work](https://dev.to/mudgen/how-diamond-upgrades-work-417j)
 * [the state of smart contract updates](https://blog.openzeppelin.com/the-state-of-smart-contract-upgrades/)
 * [multiple ways to update a contract](https://cryptomarketpool.com/multiple-ways-to-upgrade-a-solidity-smart-contract/)
-* [Web3 Tutorial: write upgradeable smart contract (proxy) using OpenZeppelin](https://dev.to/yakult/tutorial-write-upgradeable-smart-contract-proxy-contract-with-openzeppelin-1916)
-
+* [web3 Tutorial: write upgradeable smart contract (proxy) using OpenZeppelin](https://dev.to/yakult/tutorial-write-upgradeable-smart-contract-proxy-contract-with-openzeppelin-1916)
+* [safe smart account & diamond proxies, by safe](https://safe.mirror.xyz/P83_rVQuUQJAM-SnMpWvsHlN8oLnCeSncD1txyMDqpE)
