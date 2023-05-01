@@ -6,7 +6,7 @@
 
 <br>
 
-* [Anonymous Airdrops using ZK proofs](https://github.com/stealthdrop/stealthdrop)
+* [anonymous airdrops using ZK proofs](https://github.com/stealthdrop/stealthdrop)
 
 
 <br>
@@ -58,6 +58,16 @@
 <br>
 
 * [funding](https://changenow.io/)
+
+<br>
+
+----
+
+### identity
+
+<br>
+
+* [soundphrase](https://highbyte.glitch.me/)
 
 <br>
 
