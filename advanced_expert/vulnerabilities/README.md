@@ -19,22 +19,12 @@
 ### in this dir
 
 
-* [reentrancy](reentrancy_attacks)
-* [randomness in ethereum](random_numbers.md)
-* [code injection via `delegatecall`](delegatecall)
-* [ddos attacks](ddos.md)
-* [nonce reuse](nonce)
+* **[reentrancy](reentrancy_attacks)**
+* **[randomness in ethereum](random_numbers.md)**
+* **[code injection via `delegatecall`](delegatecall)**
+* **[ddos attacks](ddos.md)**
+* **[nonce reuse](nonce)**
 
 
 
 
-<br>
-
-----
-
-### resources
-
-* [secureum-mind-map](https://github.com/x676f64/secureum-mind_map/blob/master/3.%20Solidity%20201.md)
-* [defi hacks & exploits](https://github.com/SunWeb3Sec/DeFiHackLabs/#list-of-defi-hacks--exploits)
-* [ethereum smart contract security best practices](https://consensys.github.io/smart-contract-best-practices/)
-* [biased nonce sense lattice attacks against weak ECDSA](https://www.youtube.com/watch?v=6ssTlSSIJQE_
