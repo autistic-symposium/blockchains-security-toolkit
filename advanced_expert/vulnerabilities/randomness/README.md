@@ -1,4 +1,4 @@
-## random number vulns
+## randomness
 
 <br>
 
