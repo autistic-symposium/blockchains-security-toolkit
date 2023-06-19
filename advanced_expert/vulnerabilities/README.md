@@ -23,11 +23,11 @@
 <br>
 
 * **[reentrancy](reentrancy_attacks)**
-* **[randomness in ethereum](random_numbers.md)**
+* **[randomness in ethereum](randomness)**
 * **[code injection via `delegatecall`](delegatecall)**
 * **[arithmetic errors](arithmetic_errors)**
 * **[self_destruct](self_destruct)**
-* **[ddos attacks](ddos.md)**
+* **[ddos attacks](ddos)**
 * **[nonce reuse](nonce)**
 
 
