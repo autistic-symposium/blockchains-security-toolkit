@@ -1,5 +1,7 @@
 ## smart contract vulnerabilities
 
+<br>
+
 
 ### tl; dr
 
@@ -18,6 +20,7 @@
 
 ### in this dir
 
+<br>
 
 * **[reentrancy](reentrancy_attacks)**
 * **[randomness in ethereum](random_numbers.md)**
