@@ -4,7 +4,9 @@
 ### tl; dr
 
 * when a contract calls an external function, that external function may itself call the calling function.
-* a reentrancy attack may occur when a function makes an external call to another untrusted contract. Then, the unstrusted contract makes a recursive callback to the vulnerable contract function to steal funds.
+* a reentrancy attack may occur when:
+      * a function makes an external call to a untrusted contract
+      * the unstrusted contract makes a recursive callback to a vulnerable contract function to steal funds
 * to prevent this attack, a contract can implement a lock in storage that prevents re-entrant calls.
 
 
