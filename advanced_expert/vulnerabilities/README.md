@@ -22,7 +22,7 @@
 * **[reentrancy](reentrancy_attacks)**
 * **[randomness in ethereum](random_numbers.md)**
 * **[code injection via `delegatecall`](delegatecall)**
-* **[unchecked math](overflow.md)**
+* **[arithmetic errors](arithmetic_errors)**
 * **[ddos attacks](ddos.md)**
 * **[nonce reuse](nonce)**
 
