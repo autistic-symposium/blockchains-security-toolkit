@@ -26,3 +26,9 @@
 * Dynamic symbolic execution framework for analyzing EVM bytecode.
 
 <br>
+
+### other references
+
+<br>
+
+* **[fuzzi defi](https://github.com/0xNazgul/fuzzydefi/tree/main)**

@@ -71,9 +71,10 @@
 
 <br>
 
-* [proxy patterns](https://mirror.xyz/0xB38709B8198d147cc9Ff9C133838a044d78B064B/M7oTptQkBGXxox-tk9VJjL66E1V8BUF0GF79MMK4YG0)
-* [how diamond upgrades work](https://dev.to/mudgen/how-diamond-upgrades-work-417j)
-* [the state of smart contract updates](https://blog.openzeppelin.com/the-state-of-smart-contract-upgrades/)
-* [multiple ways to update a contract](https://cryptomarketpool.com/multiple-ways-to-upgrade-a-solidity-smart-contract/)
-* [web3 Tutorial: write upgradeable smart contract (proxy) using OpenZeppelin](https://dev.to/yakult/tutorial-write-upgradeable-smart-contract-proxy-contract-with-openzeppelin-1916)
-* [safe smart account & diamond proxies, by safe](https://safe.mirror.xyz/P83_rVQuUQJAM-SnMpWvsHlN8oLnCeSncD1txyMDqpE)
+* **[proxy patterns](https://mirror.xyz/0xB38709B8198d147cc9Ff9C133838a044d78B064B/M7oTptQkBGXxox-tk9VJjL66E1V8BUF0GF79MMK4YG0)**
+* **[how diamond upgrades work](https://dev.to/mudgen/how-diamond-upgrades-work-417j)**
+* **[the state of smart contract updates](https://blog.openzeppelin.com/the-state-of-smart-contract-upgrades/)**
+* **[multiple ways to update a contract](https://cryptomarketpool.com/multiple-ways-to-upgrade-a-solidity-smart-contract/)**
+* **[web3 Tutorial: write upgradeable smart contract (proxy) using OpenZeppelin](https://dev.to/yakult/tutorial-write-upgradeable-smart-contract-proxy-contract-with-openzeppelin-1916)**
+* **[safe smart account & diamond proxies, by safe](https://safe.mirror.xyz/P83_rVQuUQJAM-SnMpWvsHlN8oLnCeSncD1txyMDqpE)**
+* **[the proxy pattern, by noxx](https://noxx.substack.com/p/smart-contract-patterns-the-proxy)**

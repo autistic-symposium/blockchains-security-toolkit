@@ -1,27 +1,6 @@
-## ⛓🍕 blockchain auditing
+## blockchain security toolkit
 
 <br>
-
-
-##### 👾 this repository is an *on-going* catalog from my own research and development. if you are passionate about self-sovereignty and love solving complex problems, don't be intimidated: do your homework and join us.
-
-##### 🏴‍☠️ if you are interested in mev-related resources, check out our [mev-toolkit](https://github.com/go-outside-labs/mev-toolkit). 
-
-
-
-
-<br>
-
-<p align="center">
-<img src="https://github.com/go-outside-labs/blockchain-auditing/assets/138340846/d8aa9abb-1aba-43d1-8ed8-6e191e3229ff" width="55%" align="center" style="padding:1px;border:1px solid black;"/>
- </p>
-
-
-
-
-<br>
-
----
 
 ### I. learn the basics
 
@@ -33,6 +12,7 @@
 * **[l2s && rollups](basic_knowledge/l2_and_rollups)**
 * **[the evm && opcodes](basic_knowledge/evm_and_opcodes)**
 * **[decentralized storage](basic_knowledge/decentralized_storage)**
+* **[autistic-cypherpunk toolkit](https://github.com/autistic-symposium/autistic-cypherpunk-toolkit)**
 
 
 <br>
@@ -62,16 +42,8 @@
 * **[bug hunting](advanced_expert/bug_hunting)**
 * **[attack reviews](advanced_expert/attack_reviews)**
 * **[vulnerabilities](advanced_expert/vulnerabilities)**
-* **[foundry exploits](advanced_expert/foundry_exploits)**
 * **[practice your skills](advanced_expert/practice_your_skills/)**
 * **[contracts of interest](advanced_expert/contracts_of_interest)**
-
-
-
-<br>
-
-
-
 
 
 

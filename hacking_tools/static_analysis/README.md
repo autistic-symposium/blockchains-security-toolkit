@@ -24,3 +24,13 @@
 ### [solhunt](https://github.com/iFrostizz/solhunt#readme)
 
 * solidity analyzer in rust
+
+<br>
+
+---
+
+### resources
+
+<br>
+
+* **[codeQL, powerful static analysis framework](https://appsec.guide/docs/static-analysis/codeql/)**

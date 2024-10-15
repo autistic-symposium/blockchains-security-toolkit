@@ -2,7 +2,7 @@
 
 <br>
 
-* [Immunefi blog post](https://github.com/bt3gl-labs/Blockchain-Hacking-Toolkit/edit/main/Top-Immunefi-Vulnerabilities/nexus.md)
+* [Immunefi blog post](https://github.com/go-outside-labs/Blockchain-Hacking-Toolkit/edit/main/Top-Immunefi-Vulnerabilities/nexus.md)
 
 <br>
 
