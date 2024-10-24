@@ -4,13 +4,14 @@
 
 * **[2022 attacks](2022)**
 * **[2023 attacks](2023)**
-
+* **[2024 attacks](2024)**
 
 
 <br>
 
+----
 
-### resources
+### cool readings
 
 <br>
 
