@@ -1,14 +1,5 @@
 ## solana 
 
-
-### tl; dr
-
-
 <br>
 
-
----
-
-### resources
-
-* [solsec](https://github.com/0xsanny/solsec0)
+* **[sealevel attacks](https://github.com/coral-xyz/sealevel-attacks): common exploits to the solana programming model (and the anchor framework)**

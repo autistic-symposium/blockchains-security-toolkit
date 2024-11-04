@@ -2,9 +2,11 @@
 
 <br>
 
-### initial questions  
+### tl; dr
 
 <br>
+  
+#### initial questions 
 
 * list `external` and `public` functions. 
 * when and where external call happens and what changes.
@@ -14,9 +16,7 @@
 
 <br>
 
-### look for common vulnerabilities
-
-<br>
+#### look for common vulnerabilities
 
 * reentrancy with flashloans, fallbacks, payables.
 * access control.
@@ -24,15 +24,8 @@
 
 <br>
 
-### create an enviroment for testing
-
-<br>
+#### create an enviroment for testing
 
 * static analysis
 * fuzzing and poc exploits (use foundry)
 
-<br>
-
----
-
-### resources

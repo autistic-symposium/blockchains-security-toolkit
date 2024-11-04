@@ -1,14 +1,18 @@
 ## reentrancy attacks
+<br>
 
 
 ### tl; dr
 
 * when a contract calls an external function, that external function may itself call the calling function.
 * a reentrancy attack may occur when:
-      * a function makes an external call to a untrusted contract
-      * the unstrusted contract makes a recursive callback to a vulnerable contract function to steal funds
+  - a function makes an external call to a untrusted contract
+  - the unstrusted contract makes a recursive callback to a vulnerable contract function to steal funds
 * to prevent this attack, a contract can implement a lock in storage that prevents re-entrant calls.
-
+* bt3gl's diagram:
+<p align="center">
+<img src="https://github.com/go-outside-labs/blockchain-auditing/assets/138340846/8f6f4c12-2990-420d-95d6-f3d5379bc72c" width="55%" align="center" style="padding:1px;border:1px solid black;"/>
+ </p>
 
 <br>
 
@@ -39,9 +43,13 @@ function() public payable {
 }
 ```
 
-How to fix? 
+<br>
 
-#### Option 1: Adding a mutex locking:
+how to fix? 
+
+<br>
+
+#### option 1: Adding a mutex locking:
 
 ```
 modifier noReentrant() {
@@ -62,7 +70,15 @@ function withdrawBalance() public noReentrant {
 
 <br>
 
-#### Option 2: CEI (checks effects interaction) pattern
+#### option 2: CEI (checks effects interaction) pattern
+
+<br>
+
+<p align="center">
+<img src="https://github.com/go-outside-labs/blockchain-auditing/assets/138340846/8a57158e-82d8-4be2-bdf1-22faaaab97f7" width="55%" align="center" style="padding:1px;border:1px solid black;"/>
+ </p>
+
+ <br>
 
 ```
 function withdrawBalance() public {
@@ -73,18 +89,18 @@ function withdrawBalance() public {
 }
 ```
 
-
 <br>
 
 ----
 
+### cool resources
 
-### resources
+<br>
 
-* [reentrancy on solidity docs](https://docs.soliditylang.org/en/latest/security-considerations.html#re-entrancy)
-* [reentrancy on DASP](https://www.dasp.co/#item-1)
-* [reentrancy on SWC](https://swcregistry.io/docs/SWC-107)
-* [reentrancy patterns](https://github.com/uni-due-syssec/eth-reentrancy-attack-patterns)
-* [list of reentrancy attacks by pcaversaccio](https://github.com/pcaversaccio/reentrancy-attacks)
-* [reentrancy on not so smart contract](https://github.com/crytic/not-so-smart-contracts/tree/master/reentrancy)
+* **[reentrancy on solidity docs](https://docs.soliditylang.org/en/latest/security-considerations.html#re-entrancy)**
+* **[reentrancy on DASP](https://www.dasp.co/#item-1)**
+* **[reentrancy on SWC](https://swcregistry.io/docs/SWC-107)**
+* **[reentrancy patterns](https://github.com/uni-due-syssec/eth-reentrancy-attack-patterns)**
+* **[list of reentrancy attacks by pcaversaccio](https://github.com/pcaversaccio/reentrancy-attacks)**
+* **[reentrancy on not so smart contract](https://github.com/crytic/not-so-smart-contracts/tree/master/reentrancy)**
 

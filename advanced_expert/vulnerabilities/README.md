@@ -3,8 +3,9 @@
 <br>
 
 
-### tl; dr
+### initial thoughts
 
+<br>
 
 * `tx.origin` needs to bere placed by `msg.sender`, otherwise any contract you call can act on your behalf.
 * inline assembly should be used only in rare cases.
@@ -18,7 +19,7 @@
 
 ---
 
-### in this dir
+### chapters
 
 <br>
 
@@ -29,14 +30,13 @@
 * **[self_destruct](self_destruct)**
 * **[ddos attacks](ddos)**
 * **[nonce reuse](nonce)**
-
-
+* **[replay attacks](replay_attacks)**
 
 <br>
 
 ----
 
-### resources
+###  cool resources
 
 <br>
 

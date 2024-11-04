@@ -1,6 +1,7 @@
-## 🐼 my favorite opcodes
+##  my favorite opcodes
 
 <br>
+
 
 | opocde      | name        | min gas     |    details      |
 | ----------- | ----------- | ----------- | --------------- |
