@@ -14,6 +14,7 @@
 * **[visual explorers](visual_explorers)**
 * **[dynamic analysis](dynamic_analysis)**
 * **[hacking by chains](hacking_by_chains)**
+* **[formal verification](formal_verification)**
 
 
 <br>
