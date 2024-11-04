@@ -22,3 +22,4 @@
 * **[ethereum randomness ](https://eth2book.info/altair/part2/building_blocks/randomness)**
 * **[randao github](https://github.com/randao/randao)**
 * **[exploring the randao game in pos ethereum](https://ethereum.github.io/beaconrunner/notebooks/randao/randao.html)**
+* **[exploring cryptokitties midwives](https://medium.com/block-science/exploring-cryptokitties-part-2-the-cryptomidwives-a0df37eb35a6)** (`giveBirth()` as an example of flawed economic incentive and randomization)
