@@ -7,6 +7,7 @@
 <br>
 
 * fast contract fuzzer for detecting vulnerabilities in smart contracts through property-based testing.
+* **[tutorial to use echidna to automatically test smart contracts](https://secure-contracts.com/program-analysis/echidna/index.html)**
 
 <br>
 
