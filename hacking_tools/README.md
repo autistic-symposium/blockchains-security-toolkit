@@ -69,3 +69,4 @@
 * **[officercia's on-chain investigation tools list](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)**
 * **[de.fi](https://de.fi/)**
 * **[test suite for client-side script injection on websites that display NFTs](https://github.com/muellerberndt/rektosaurus)**
+* **defi summit 2024 (videos): [defi security 101](https://www.youtube.com/watch?v=r3wfpbYsJZA), [day 1](https://www.youtube.com/watch?v=gMg6Smve-i0), and [day 2](https://www.youtube.com/watch?v=dMp6jJVuGLI)**
