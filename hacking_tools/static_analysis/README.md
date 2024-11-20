@@ -34,6 +34,14 @@
 
 ---
 
+### [caracal](https://github.com/crytic/caracal)
+
+* static analyzer for starknet smart contracts
+
+<br>
+
+---
+
 ### [codeql](https://codeql.github.com/)
 
 * powerful static analysis framework allowing query codebases for specific code patterns
