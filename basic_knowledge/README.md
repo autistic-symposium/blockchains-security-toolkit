@@ -55,3 +55,4 @@
 * **[security and auditing full course 2023](https://github.com/Cyfrin/security-and-auditing-full-course-s23)**
 * **[smart contract security course by cyfrin updraft](https://updraft.cyfrin.io/courses/security)**
 * **[the forgotten ipfs vulnerabilities](https://diligence.consensys.io/blog/2022/09/the-forgotten-ipfs-vulnerabilities/)**
+* **[pow 51% attack cost per each chain](https://www.crypto51.app)**
