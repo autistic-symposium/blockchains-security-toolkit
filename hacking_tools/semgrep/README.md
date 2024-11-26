@@ -8,10 +8,11 @@
 
 ---
 
-### cool redings
+### cool resources
 
 <br>
 
 
 * **[semgrep guide, by trails of bits](https://appsec.guide/docs/static-analysis/semgrep/)**
 * **[semgrep rules for smart contracts, by raz0r](https://github.com/Raz0r/semgrep-smart-contracts)**
+* **[trail of bits' video intro to semgrep](https://www.youtube.com/watch?v=yKQlTbVlf0Q)**
