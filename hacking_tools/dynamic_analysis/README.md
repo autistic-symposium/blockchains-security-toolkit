@@ -39,3 +39,4 @@
 <br>
 
 * **[fuzzi defi](https://github.com/0xNazgul/fuzzydefi/tree/main)**
+* **[awesome fuzzing](https://github.com/cpuu/awesome-fuzzing)**
