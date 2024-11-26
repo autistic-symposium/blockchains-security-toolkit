@@ -41,3 +41,4 @@
 * **[hackenproof](https://hackenproof.com/)**
 * **[bountycaster](https://www.bountycaster.xyz/)**
 * **[certik](https://www.certik.com/products/bug-bounty)**
+* **[remedy](https://r.xyz/)**
