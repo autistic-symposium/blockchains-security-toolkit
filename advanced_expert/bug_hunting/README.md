@@ -33,12 +33,14 @@
 
 ---
 
-### bug hunt platforms
+### cool resources
 
 <br>
 
+* **[solidity bugs by version](https://00xsev.github.io/solidityBugsByVersion/)**
 * **[immunefi](https://immunefi.com/)**
 * **[hackenproof](https://hackenproof.com/)**
 * **[bountycaster](https://www.bountycaster.xyz/)**
 * **[certik](https://www.certik.com/products/bug-bounty)**
 * **[remedy](https://r.xyz/)**
+  
