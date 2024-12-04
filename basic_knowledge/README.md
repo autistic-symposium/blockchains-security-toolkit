@@ -58,6 +58,7 @@
 
 #### cool talks
 
+* **[lazarus: the biggest threat actor in crypto, by m. gupta (2024)](https://www.youtube.com/watch?v=W5wcGsh3UVE)**
 * **[web3 security is embarrasing, by a. macpherson (2024)](https://www.youtube.com/watch?v=4dr7sL42GAw)**
 * **[intro to security first dev](https://www.youtube.com/watch?v=72K57I9yvyI)**
 * **[the evolution of smart contract security](https://www.youtube.com/watch?v=fOkQuNzVn_Q)**
