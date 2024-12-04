@@ -60,13 +60,14 @@
 
 * **[lazarus: the biggest threat actor in crypto, by m. gupta (2024)](https://www.youtube.com/watch?v=W5wcGsh3UVE)**
 * **[web3 security is embarrasing, by a. macpherson (2024)](https://www.youtube.com/watch?v=4dr7sL42GAw)**
-* **[intro to security first dev](https://www.youtube.com/watch?v=72K57I9yvyI)**
-* **[the evolution of smart contract security](https://www.youtube.com/watch?v=fOkQuNzVn_Q)**
-* **[smart contract security fundamentals, by openzeppelin](https://www.youtube.com/playlist?list=PLBy3Qkuapv_7R1ZI_Cs2NOFn7ZTaNWY6G)**
-* **[white hat panel: defi exploits](https://www.youtube.com/watch?v=Df2zzfoTfMc)**
-* **[the dangers of price oracles in smart contracts](https://www.youtube.com/watch?v=YGO7nzpXCeA&list=PLdJRkA9gCKOONBSlcifqLig_ZTyG_YLqz&index=5)**
-* **[strategies for secure governance with smart contracts](https://www.youtube.com/watch?v=GbDAmMdmh8Q&list=PLdJRkA9gCKOONBSlcifqLig_ZTyG_YLqz&index=6)**
-* **[security in upgrades of smart contracts](https://www.youtube.com/watch?v=5WE6PEc305w&list=PLdJRkA9gCKOONBSlcifqLig_ZTyG_YLqz&index=7)**
-* **[onward with smart contract security](https://www.youtube.com/watch?v=RipXdV7vygs&list=PLdJRkA9gCKOONBSlcifqLig_ZTyG_YLqz&index=8)**
-* **[video on audit findings](https://www.youtube.com/watch?v=SromSImIpHE)**
+* **[security frameworks by seal, by matta (2024)](https://www.youtube.com/watch?v=XTrR7aQLeWQ)**
+* **[smart contract security fundamentals, by defi dev academy (2021)](https://www.youtube.com/playlist?list=PLBy3Qkuapv_7R1ZI_Cs2NOFn7ZTaNWY6G)**
+* **[white hat panel: defi exploits, by marketnaket (2021)](https://www.youtube.com/watch?v=Df2zzfoTfMc)**
+* **[the dangers of price oracles in smart contracts, by openzeppelin (2021)](https://www.youtube.com/watch?v=YGO7nzpXCeA&list=PLdJRkA9gCKOONBSlcifqLig_ZTyG_YLqz&index=5)**
+* **[strategies for secure governance with smart contracts, by openzeppelin (2021)](https://www.youtube.com/watch?v=GbDAmMdmh8Q&list=PLdJRkA9gCKOONBSlcifqLig_ZTyG_YLqz&index=6)**
+* **[security in upgrades of smart contracts, by openzeppelin (2021)](https://www.youtube.com/watch?v=5WE6PEc305w&list=PLdJRkA9gCKOONBSlcifqLig_ZTyG_YLqz&index=7)**
+* **[onward with smart contract security, by openzeppelin (2021)](https://www.youtube.com/watch?v=RipXdV7vygs&list=PLdJRkA9gCKOONBSlcifqLig_ZTyG_YLqz&index=8)**
+* **[video on audit findings, by secureum (2021)](https://www.youtube.com/watch?v=SromSImIpHE)**
+* **[the evolution of smart contract security, by dan guido (2020)](https://www.youtube.com/watch?v=fOkQuNzVn_Q)**
+* **[intro to security first dev, by gonçalo sá (2020)](https://www.youtube.com/watch?v=72K57I9yvyI)**
   
