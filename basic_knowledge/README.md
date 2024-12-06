@@ -59,6 +59,7 @@
 #### cool talks
 
 * **[lazarus: the biggest threat actor in crypto, by m. gupta (2024)](https://www.youtube.com/watch?v=W5wcGsh3UVE)**
+* **[top hacks since devcon VI: what did we learn?, by m. gupta et al. (2024)](https://www.youtube.com/watch?v=MQjw2ffttzw)**
 * **[web3 security is embarrasing, by a. macpherson (2024)](https://www.youtube.com/watch?v=4dr7sL42GAw)**
 * **[security frameworks by seal, by matta (2024)](https://www.youtube.com/watch?v=XTrR7aQLeWQ)**
 * **[smart contract security fundamentals, by defi dev academy (2021)](https://www.youtube.com/playlist?list=PLBy3Qkuapv_7R1ZI_Cs2NOFn7ZTaNWY6G)**
