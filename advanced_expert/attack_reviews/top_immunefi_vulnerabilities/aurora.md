@@ -12,7 +12,7 @@
 
 * Bridges also have additional “attack surface” as compared to “regular” DeFi projects. While a yield farm or a decentralized exchange might have a collection of smart contracts and a dapp web page, a bridge usually needs monitoring nodes, validator keys, and secure communication channels on top of those contracts and dapp.
 
-* Most bridges implement "IOU" approcah: users send funds to the bridge protocol, where those funds are locked by the bridge smart contract. The bridge then issues the user an equivalent asset on the second network from the second bridge smart contract. The tokens on the destination chain are wrapped tokens. Bridges accumulate a lot of funds.
+* Most bridges implement "IOU" approach: users send funds to the bridge protocol, where those funds are locked by the bridge smart contract. The bridge then issues the user an equivalent asset on the second network from the second bridge smart contract. The tokens on the destination chain are wrapped tokens. Bridges accumulate a lot of funds.
 
 <br>
 
@@ -30,7 +30,7 @@
 
 * Aurora is an implementation of an EVM built on the NEAR network that supports all tools available in the Ethereum ecosystem.
 
-* Aurora developed the Rainbow Bridge which allows users to transfers assets between Ethereum, NEAR, and Aurora.
+* Aurora developed the Rainbow Bridge which allows users to transfer assets between Ethereum, NEAR, and Aurora.
 
 * Two contracts in the Aurora Engine are interesting to us: `ExitToNear` and `ExitToEthereum`. They are special, built-in (precompiled) contracts that handle withdraw requests from the Aurora EVM.
 
