@@ -24,7 +24,7 @@
 
 <br>
 
-#### create an enviroment for testing
+#### create an environment for testing
 
 * static analysis
 * fuzzing and poc exploits (use foundry)

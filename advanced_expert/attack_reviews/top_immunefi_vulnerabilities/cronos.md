@@ -22,7 +22,7 @@
 ### EVM and Ethermint transactions
 
 * Transactions are one of Ethereum's key functionalities, and they are the only thing that can modify or update the state of the blockchain. They are signed messages sent by the Ethereum network to every node via the "flood routing" protocol.
-* New transactions looks as follow:
+* New transactions look as follow:
 
 1. Nonce: an originating EOA-issued sequence number used to prevent message replay.
 2. Gas price: how much Ether (in Wei) the originator is prepared to pay for each unit of gas.
@@ -32,7 +32,7 @@
 6. Data: variable-length binary data payload.
 7. v,r,s: the three components of the original EOA's ECDSA digital signature.
 
-* The Ethermint's chain perform state transitions by using `MsgEthereumTx`. This message provides the relevant transaction data elements and wraps an Ethereum transaction as an SDK message.
+* The Ethermint's chain performs state transitions by using `MsgEthereumTx`. This message provides the relevant transaction data elements and wraps an Ethereum transaction as an SDK message.
 * When transactions are consumed in Ethermint, they pass via a sequence of handlers. The `AnteHandler` is one of these handlers, and it's in change of conducting preliminary message execution business logic such as fee payment, signature verification, and so on. It only applies to transactions conducted through the Cosmos SDK. Because the EVM handles the same business logic, Ethereum routed transactions will be unaffected.
 
 <br>
@@ -49,7 +49,7 @@
 
 <br>
 
-### Vulnerabilty Fix
+### Vulnerability Fix
 
 * Check if the `MsgEthereumTx` is contained inside the transaction.
 

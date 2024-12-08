@@ -6,7 +6,7 @@
 
 <br>
 
-* Using a flashloan from `IdleTokenGovernance.sol` affected the `totalSupply` fo the Idle tokens, which was used to calculate the price of the token.
+* Using a flashloan from `IdleTokenGovernance.sol` affected the `totalSupply` of the Idle tokens, which was used to calculate the price of the token.
 * Price calculations were based on the `totalNav / totalSupply` of the tokens.
 * It's worth noting the initial Idle Token integration was with v4, which did not have any flashloan logic. That was later added in v5, thus unintentionally introducing a bug into Enzyme's Finance protocol.
 
@@ -50,7 +50,7 @@
 ### PoC
 
 1. Fund malicious contract with WETH to be able to swap it later for USDC to pay for a flashloan.
-2. Make a flashloan of IdleUSCDYield tokens. This will in fact, affect GAV calculations.
+2. Make a flashloan of IdleUSDCYield tokens. This will in fact, affect GAV calculations.
 3. During a flashloan, call `buyShares`. As GAV calculations are affected, we are buying shares at a discount now.
 4. Repay flashloan.
 5. Call `redeemShares` to sell all the bought shares of Idle fund for a profit.
