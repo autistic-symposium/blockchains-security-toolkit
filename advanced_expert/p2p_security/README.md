@@ -2,7 +2,11 @@
 
 <br>
 
-#### ethereum validator security notes (homestakers)
+### notes
+
+<br>
+
+#### ethereum validator security (homestakers)
 
 * while ip address revealing at the execution layer is inevitable, attestations and blocks from validator nodes could leak information that allows an attacker to associate a validator id with an ip address, unless operators utilize sophisticated measures.
 * even though a validator can submit the consensus messages to multiple beacon nodes, there are still risks of metadata analysis attacks, including the size of the message (block or attestation), frequency of broadcasting messages (either blocks or attestations), the timing of the message, joining or leaving subnets events, and packet or data size difference between attestation and other messages.
@@ -20,3 +24,4 @@
 <br>
 
 * **[consensus layer block proposal privacy using dandelion and rln, by b. dimovski (2022)](https://hackmd.io/CwEll0uLQNm4J4-vfqsnKg)**
+* **[fraud and da proofs: maximising light client security, m. al-Bassam et al. (2019)](https://arxiv.org/pdf/1809.09044)** (overview of a fraud proof system and security guarantees for light nodes,  including threat models for consensus, full nodes, and light clients)
