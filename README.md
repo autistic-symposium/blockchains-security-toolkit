@@ -29,3 +29,10 @@
 * **[vulnerabilities](advanced_expert/vulnerabilities)**
 * **[practice your skills](advanced_expert/practice_your_skills/)**
 * **[contracts of interest](advanced_expert/contracts_of_interest)**
+
+<br>
+
+### IV. learn from on-going research
+
+* **[p2p security](advanced_expert/p2p_security)**
+
